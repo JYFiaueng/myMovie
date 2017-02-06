@@ -29,7 +29,7 @@ $(function (){
 			},
 			afterRender:function (){
 				setTimeout(function (){
-				    $('#mark').fadeOut(400);
+					$('#mark').fadeOut(400);
 				}, 1000);
 				movieListP.css('height', $('html').height());
 				showMovieP.css('height', $('html').height());
@@ -42,7 +42,7 @@ $(function (){
 	function throttle(method,context){
 		clearTimeout(method.tId);
 		method.tId=setTimeout(function(){
-				method.call(context);
+			method.call(context);
 		},500);
 	}
 	// 窗口size变化
@@ -58,9 +58,22 @@ $(function (){
 	// 拿到电影类型数据
 	$.get('./data/type.json', function (data){
 		var html = '';
+		var random = (function (){
+			var r = [];
+			return function (){
+				while(1){
+					var n = parseInt(Math.random()*data.length);
+					if(n === data.length) n = data.length-1;
+					if(!r[n]){
+						r[n] = true;
+						return n;
+					}
+				}
+			};
+		})();
 		typeList.fadeIn(400);
 		for(var i = 0; i < data.length; i++){
-			html += '<div>'+data[i].Name+'</div>';
+			html += '<div>'+data[random()].Name+'</div>';
 		}
 		typeList.html(html);
 	});
