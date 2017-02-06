@@ -1,12 +1,67 @@
+#mark{
+	position: fixed;
+	font-size: 16em;
+	background-color: #eee;
+	right: 0;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 1031;
+}
+.text {
+  fill: none;
+  stroke-width: 3;
+  stroke-linejoin: round;
+  stroke-dasharray: 70 330;
+  stroke-dashoffset: 0;
+  animation: stroke 6s infinite linear;
+}
+.text:nth-child(5n + 1) {
+  stroke: #3498DB;
+  animation-delay: -1.2s;
+}
+.text:nth-child(5n + 2) {
+  stroke: #2ECC71;
+  animation-delay: -2.4s;
+}
+.text:nth-child(5n + 3) {
+  stroke: #eee;
+  animation-delay: -3.6s;
+}
+.text:nth-child(5n + 4) {
+  stroke: #F39C12;
+  animation-delay: -4.8s;
+}
+.text:nth-child(5n + 5) {
+  stroke: #FFFEBB;
+  animation-delay: -6s;
+}
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: -400;
+  }
+}
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
 body{
 	font-family: Consolas, 'simsun', sans-serif;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
 }
 #typeList,#movieList{
 	text-align: center;
+	font-size: 14px;
 }
 #typeList div,#movieList div{
 	display: inline-block;
-	border: 1px solid #0f0;
+	border: 1px solid #2ECC71;
 	transition: background-color .4s;
 	cursor: pointer;
 	padding: 5px 30px;
@@ -16,7 +71,8 @@ body{
 #typeList div:hover,#movieList div:hover{
 	background-color: rgba(0, 0, 0, 0.3);
 	color: #fff;
-	border-color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 #movieListP,#showMovieP{
 	overflow: hidden;
@@ -53,4 +109,7 @@ body{
 }
 #MovieGoMovies:hover{
 	background-image: url('./电影h.png');
+}
+#showMovie{
+	font-size: 14px;
 }
