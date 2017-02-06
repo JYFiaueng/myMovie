@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<link rel="shortcut icon" href="favicon.ico">
+		<title>贾雨峰的简介</title>
+
+		<link href="./libs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="./libs/fullpage/jquery.fullPage.css" rel="stylesheet">
+		<link rel="stylesheet" href="./css/main.css">
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="container-fuild">
+			<div id="dowebok">
+				<div class="section">
+					<h2 class="text-center">
+						电影类型归类
+					</h2>
+					<hr>
+					<div class="row">
+						<div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-3 clearfix" id="typeList"></div>
+					</div>
+				</div>
+				<div class="section">
+					<div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1" id="movieListP">
+						<div id="movieList"></div>
+					</div>
+					<div id="MoviesGoTypes"></div>
+				</div>
+				<div class="section">
+					<div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1" id="showMovieP">
+						<div id="showMovie">
+							<div class="row" id="load">
+								<div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1">
+									正在从豆瓣获取数据，请等待...
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-xs-8 col-xs-offset-2 col-sm-3 col-sm-offset-1" id="poster"></div>
+								<div class="col-xs-10 col-xs-offset-1 col-sm-4">
+									<div class="dl-horizontal" id="info"></div>
+								</div>
+							</div>
+							<hr>
+							<div class="row">
+								<div class="col-xs-10 col-xs-offset-1 col-sm-10 col-sm-offset-1" id="describe"></div>
+							</div>
+						</div>
+					</div>
+					<div id="MovieGoMovies"></div>
+					<div id="MovieGoTypes"></div>
+				</div>
+			</div>
+		</div>
+
+		<script src="./libs/jquery/jquery.min.js"></script>
+		<script src="./libs/bootstrap/js/bootstrap.min.js"></script>
+		<script src="./libs/fullpage/jquery.fullPage.min.js"></script>
+		<script src="./js/main.js"></script>
+	</body>
+</html>
