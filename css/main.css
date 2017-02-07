@@ -68,11 +68,35 @@ body{
 	margin: 5px;
 	border-radius: 16px;
 }
-#typeList div:hover,#movieList div:hover{
+#typeList div:nth-child(5n+1):hover,#movieList div:nth-child(5n+5):hover{
+	background-color: rgba(46, 204, 113, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(46, 204, 113, 0.3);
+}
+#typeList div:nth-child(5n+2):hover,#movieList div:nth-child(5n+4):hover{
+	background-color: rgba(52, 152, 219, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(52, 152, 219, 0.3);
+}
+#typeList div:nth-child(5n+3):hover,#movieList div:nth-child(5n+3):hover{
 	background-color: rgba(0, 0, 0, 0.3);
 	color: #fff;
 	border-color: rgba(0, 0, 0, 0.1);
-	box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+#typeList div:nth-child(5n+4):hover,#movieList div:nth-child(5n+2):hover{
+	background-color: rgba(243, 156, 18, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(243, 156, 18, 0.3);
+}
+#typeList div:nth-child(5n+5):hover,#movieList div:nth-child(5n+1):hover{
+	background-color: rgba(142, 68, 173, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(142, 68, 173, 0.3);
 }
 #movieListP,#showMovieP,#typeListP{
 	overflow: hidden;
