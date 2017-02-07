@@ -54,10 +54,10 @@ body{
 	-ms-user-select: none;
 	-o-user-select: none;
 	user-select: none;
+	font-size: 14px;
 }
 #typeList,#movieList{
 	text-align: center;
-	font-size: 14px;
 }
 #typeList div,#movieList div{
 	display: inline-block;
@@ -74,11 +74,11 @@ body{
 	border-color: rgba(0, 0, 0, 0.1);
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
-#movieListP,#showMovieP{
+#movieListP,#showMovieP,#typeListP{
 	overflow: hidden;
 	padding: 30px 0px;
 }
-#showMovie,#movieList{
+#showMovie,#movieList,#typeList{
 	max-height: 100%;
 	margin-right: -20px;
 	padding-right: 20px;
@@ -109,7 +109,4 @@ body{
 }
 #MovieGoMovies:hover{
 	background-image: url('./电影h.png');
-}
-#showMovie{
-	font-size: 14px;
 }

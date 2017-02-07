@@ -5,6 +5,7 @@ $(function (){
 	var describe = $('#describe');
 	var movieListP = $('#movieListP');
 	var showMovieP = $('#showMovieP');
+	var typeListP = $('#typeListP');
 	var typeList = $('#typeList');
 	var movieList = $('#movieList');
 	var load = $('#load');
@@ -47,11 +48,22 @@ $(function (){
 	}
 	// 窗口size变化
 	$(window).resize(function(){
-		throttle(function (){
-			movieListP.css('height', $('html').height());
-			showMovieP.css('height', $('html').height());
-		}, window);
+		throttle(windowSizeChange, window);
 	});
+	function windowSizeChange(){
+		movieListP.css('height', $('html').height());
+		showMovieP.css('height', $('html').height());
+		var $hh = $('html').height();
+		var $hw = $('html').width();
+		var typeListH = typeList.height();
+		//标题的margin-top + h2的高度 + hr的上下margin加高度
+		var needMinus = 20+33+41;
+		if($hh < typeListH + needMinus){console.log(1);
+			typeListP.css('height', $hh-needMinus);
+		} else {console.log(2);
+			typeListP.css('height', typeListH+60);//有60的padding
+		}
+	}
 	// 删除键盘和滚轮对全屏切换的控制
 	$.fn.fullpage.setKeyboardScrolling();
 	$.fn.fullpage.setAllowScrolling();
@@ -76,6 +88,7 @@ $(function (){
 			html += '<div>'+data[random()].Name+'</div>';
 		}
 		typeList.html(html);
+		windowSizeChange();
 	});
 	// 为电影类型添加点击事件
 	typeList.on('click', 'div', function (e){
