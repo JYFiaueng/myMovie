@@ -9,12 +9,15 @@ let len;
 let p = [];
 // let typeDuli = [ {type:'', data:[{title:'', id:}]} ];
 let typeDuli = [];
-fs.readdir('./myMovieDataName', (e, files) => {
+fs.readdir('./middleData/AllMovie', (e, files) => {
 	len = files.length;
 	for(let i of files){
 		p.push(new Promise(function (resolve, reject){
-			fs.readFile('./myMovieDataName/'+i, (err, data) => {
-				if(err) reject();
+			fs.readFile('./middleData/AllMovie/'+i, (err, data) => {
+				if(err) {
+					console.log(i);
+					reject();
+				}
 				var d = JSON.parse(data);
 				for(let i = 0; i < d.genres.length; i++){
 					if(type.has(d.genres[i])){
@@ -61,9 +64,9 @@ fs.readdir('./myMovieDataName', (e, files) => {
 		// 	}
 		// }
 		for(let k = 0; k < typeDuli.length; k++){
-			fs.writeFile('./myMovieNeed/'+typeDuli[k].type+'.json', JSON.stringify(typeDuli[k].data), () => {});
+			fs.writeFile('./targetData/'+typeDuli[k].type+'.json', JSON.stringify(typeDuli[k].data), () => {});
 		}
-		fs.writeFile('./myMovieNeed/type.json', JSON.stringify(t), () => {});
+		fs.writeFile('./targetData/type.json', JSON.stringify(t), () => {});
 	}).catch((err) => {
 		console.log(err);
 	});
