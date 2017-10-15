@@ -9,7 +9,7 @@ $(function (){
 	var typeList = $('#typeList');
 	var movieList = $('#movieList');
 	var load = $('#load');
-	var audio = './data/Bandari.mp3';
+	var audioUrl = './data/Bandari.mp3';
 	// 豆瓣的电影数据地址
 	var URL = 'https://api.douban.com/v2/movie/subject/';
 	function exploedAudio(src){
@@ -20,7 +20,7 @@ $(function (){
 		};
 		audio.autoplay = true;
 	}
-	exploedAudio(audio);
+	exploedAudio(audioUrl);
 	// 全屏插件设置
 	$('#dowebok').fullpage({
 			sectionsColor: ['#f4f4f4', '#f2f2f2', '#efefef'],
