@@ -85,7 +85,8 @@ $(function (){
 		})();
 		typeList.fadeIn(400);
 		for(var i = 0; i < data.length; i++){
-			html += '<div>'+data[random()].Name+'</div>';
+			let r = random();
+			html += '<div>'+data[r].Name+'('+data[r].Count+')</div>';
 		}
 		typeList.html(html);
 		windowSizeChange();
@@ -93,6 +94,7 @@ $(function (){
 	// 为电影类型添加点击事件
 	typeList.on('click', 'div', function (e){
 		var typeName = e.target.innerHTML;
+		typeName = typeName.slice(0, typeName.indexOf('('));
 		$.get('./data/'+typeName+'.json', function (data){
 			var html = '';
 			for(var i = 0; i < data.length; i++){
