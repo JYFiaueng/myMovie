@@ -20,7 +20,7 @@ $(function (){
 		};
 		audio.autoplay = true;
 	}
-	exploedAudio(audioUrl);
+	// exploedAudio(audioUrl);
 	// 全屏插件设置
 	$('#dowebok').fullpage({
 			sectionsColor: ['#f4f4f4', '#f2f2f2', '#efefef'],
