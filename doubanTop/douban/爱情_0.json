@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "9.5",
+    "cover_x": 494,
+    "title": "霸王别姬",
+    "url": "https://movie.douban.com/subject/1291546/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg",
+    "id": "1291546",
+    "cover_y": 732,
+    "is_new": false
+  },
+  {
+    "rate": "9.4",
+    "cover_x": 721,
+    "title": "阿甘正传",
+    "url": "https://movie.douban.com/subject/1292720/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg",
+    "id": "1292720",
+    "cover_y": 1035,
+    "is_new": false
+  },
+  {
+    "rate": "9.5",
+    "cover_x": 2015,
+    "title": "美丽人生",
+    "url": "https://movie.douban.com/subject/1292063/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg",
+    "id": "1292063",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "9.3",
+    "cover_x": 2015,
+    "title": "泰坦尼克号",
+    "url": "https://movie.douban.com/subject/1292722/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+    "id": "1292722",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "9.3",
+    "cover_x": 3000,
+    "title": "机器人总动员",
+    "url": "https://movie.douban.com/subject/2131459/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+    "id": "2131459",
+    "cover_y": 4447,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 3030,
+    "title": "三傻大闹宝莱坞",
+    "url": "https://movie.douban.com/subject/3793023/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+    "id": "3793023",
+    "cover_y": 4364,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 3645,
+    "title": "大话西游之大圣娶亲",
+    "url": "https://movie.douban.com/subject/1292213/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+    "id": "1292213",
+    "cover_y": 5103,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 400,
+    "title": "乱世佳人",
+    "url": "https://movie.douban.com/subject/1300267/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg",
+    "id": "1300267",
+    "cover_y": 571,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1076,
+    "title": "怦然心动",
+    "url": "https://movie.douban.com/subject/3319755/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg",
+    "id": "3319755",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 500,
+    "title": "天堂电影院",
+    "url": "https://movie.douban.com/subject/1291828/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg",
+    "id": "1291828",
+    "cover_y": 712,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1005,
+    "title": "大话西游之月光宝盒",
+    "url": "https://movie.douban.com/subject/1299398/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1280323646.jpg",
+    "id": "1299398",
+    "cover_y": 1437,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1394,
+    "title": "请以你的名字呼唤我",
+    "url": "https://movie.douban.com/subject/26799731/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg",
+    "id": "26799731",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1600,
+    "title": "罗马假日",
+    "url": "https://movie.douban.com/subject/1293839/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg",
+    "id": "1293839",
+    "cover_y": 2400,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 1600,
+    "title": "摩登时代",
+    "url": "https://movie.douban.com/subject/1294371/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173707976.jpg",
+    "id": "1294371",
+    "cover_y": 2400,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 510,
+    "title": "情书",
+    "url": "https://movie.douban.com/subject/1292220/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg",
+    "id": "1292220",
+    "cover_y": 723,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 557,
+    "title": "音乐之声",
+    "url": "https://movie.douban.com/subject/1294408/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg",
+    "id": "1294408",
+    "cover_y": 768,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 487,
+    "title": "春光乍泄",
+    "url": "https://movie.douban.com/subject/1292679/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg",
+    "id": "1292679",
+    "cover_y": 711,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1000,
+    "title": "本杰明·巴顿奇事",
+    "url": "https://movie.douban.com/subject/1485260/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg",
+    "id": "1485260",
+    "cover_y": 1545,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1278,
+    "title": "天使爱美丽",
+    "url": "https://movie.douban.com/subject/1292215/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803896904.jpg",
+    "id": "1292215",
+    "cover_y": 1900,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 650,
+    "title": "一一",
+    "url": "https://movie.douban.com/subject/1292434/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2119675128.jpg",
+    "id": "1292434",
+    "cover_y": 918,
+    "is_new": false
+  }
+]

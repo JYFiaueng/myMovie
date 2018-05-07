@@ -1,0 +1,178 @@
+[
+  {
+    "rate": "4.5",
+    "cover_x": 3508,
+    "title": "喵星人",
+    "url": "https://movie.douban.com/subject/26747836/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492868791.jpg",
+    "id": "26747836",
+    "cover_y": 5783,
+    "is_new": false
+  },
+  {
+    "rate": "4.3",
+    "cover_x": 1145,
+    "title": "鲛珠传",
+    "url": "https://movie.douban.com/subject/25857966/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493908018.jpg",
+    "id": "25857966",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "4.5",
+    "cover_x": 4429,
+    "title": "推理笔记",
+    "url": "https://movie.douban.com/subject/26890502/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506041645.jpg",
+    "id": "26890502",
+    "cover_y": 6201,
+    "is_new": false
+  },
+  {
+    "rate": "3.9",
+    "cover_x": 1372,
+    "title": "三生三世十里桃花",
+    "url": "https://movie.douban.com/subject/25823277/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2494279388.jpg",
+    "id": "25823277",
+    "cover_y": 1920,
+    "is_new": false
+  },
+  {
+    "rate": "4.2",
+    "cover_x": 2082,
+    "title": "末日重启",
+    "url": "https://movie.douban.com/subject/26764514/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505644718.jpg",
+    "id": "26764514",
+    "cover_y": 2985,
+    "is_new": false
+  },
+  {
+    "rate": "4.4",
+    "cover_x": 4370,
+    "title": "奇葩朵朵",
+    "url": "https://movie.douban.com/subject/26718803/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517679011.jpg",
+    "id": "26718803",
+    "cover_y": 6201,
+    "is_new": false
+  },
+  {
+    "rate": "4.2",
+    "cover_x": 1427,
+    "title": "冰封迷案",
+    "url": "https://movie.douban.com/subject/26760161/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518645457.jpg",
+    "id": "26760161",
+    "cover_y": 2000,
+    "is_new": true
+  },
+  {
+    "rate": "4.1",
+    "cover_x": 1353,
+    "title": "天生不对",
+    "url": "https://movie.douban.com/subject/26696871/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503848298.jpg",
+    "id": "26696871",
+    "cover_y": 1920,
+    "is_new": false
+  },
+  {
+    "rate": "4.0",
+    "cover_x": 705,
+    "title": "青禾男高",
+    "url": "https://movie.douban.com/subject/26787124/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460295681.jpg",
+    "id": "26787124",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "4.1",
+    "cover_x": 1583,
+    "title": "奶酪陷阱",
+    "url": "https://movie.douban.com/subject/26761204/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515402315.jpg",
+    "id": "26761204",
+    "cover_y": 2268,
+    "is_new": false
+  },
+  {
+    "rate": "4.0",
+    "cover_x": 675,
+    "title": "人工智能：灭绝危机",
+    "url": "https://movie.douban.com/subject/26905703/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2473817886.jpg",
+    "id": "26905703",
+    "cover_y": 1000,
+    "is_new": true
+  },
+  {
+    "rate": "4.0",
+    "cover_x": 642,
+    "title": "情遇曼哈顿",
+    "url": "https://movie.douban.com/subject/26818312/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2500046039.jpg",
+    "id": "26818312",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "3.8",
+    "cover_x": 1700,
+    "title": "京城81号2",
+    "url": "https://movie.douban.com/subject/26662798/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2471580153.jpg",
+    "id": "26662798",
+    "cover_y": 2551,
+    "is_new": false
+  },
+  {
+    "rate": "3.8",
+    "cover_x": 3000,
+    "title": "卧底巨星",
+    "url": "https://movie.douban.com/subject/26984538/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508908269.jpg",
+    "id": "26984538",
+    "cover_y": 4179,
+    "is_new": false
+  },
+  {
+    "rate": "3.6",
+    "cover_x": 1000,
+    "title": "谜巢",
+    "url": "https://movie.douban.com/subject/26612285/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510144625.jpg",
+    "id": "26612285",
+    "cover_y": 1399,
+    "is_new": false
+  },
+  {
+    "rate": "3.7",
+    "cover_x": 5906,
+    "title": "李雷和韩梅梅",
+    "url": "https://movie.douban.com/subject/26289138/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461589633.jpg",
+    "id": "26289138",
+    "cover_y": 8268,
+    "is_new": false
+  }
+]

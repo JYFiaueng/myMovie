@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 671,
+    "title": "黑洞频率",
+    "url": "https://movie.douban.com/subject/1294183/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p812857342.jpg",
+    "id": "1294183",
+    "cover_y": 972,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 562,
+    "title": "十二猴子",
+    "url": "https://movie.douban.com/subject/1298744/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p627041570.jpg",
+    "id": "1298744",
+    "cover_y": 859,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1000,
+    "title": "一树梨花压海棠",
+    "url": "https://movie.douban.com/subject/1296778/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2193339885.jpg",
+    "id": "1296778",
+    "cover_y": 1408,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1062,
+    "title": "罗拉快跑",
+    "url": "https://movie.douban.com/subject/1292275/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453894815.jpg",
+    "id": "1292275",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 800,
+    "title": "歌厅",
+    "url": "https://movie.douban.com/subject/1296282/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1345340636.jpg",
+    "id": "1296282",
+    "cover_y": 1152,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1022,
+    "title": "天才瑞普利",
+    "url": "https://movie.douban.com/subject/1295045/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1915065575.jpg",
+    "id": "1295045",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1500,
+    "title": "茜茜公主",
+    "url": "https://movie.douban.com/subject/1304056/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2160427238.jpg",
+    "id": "1304056",
+    "cover_y": 2149,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 500,
+    "title": "回归",
+    "url": "https://movie.douban.com/subject/1308074/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p790496788.jpg",
+    "id": "1308074",
+    "cover_y": 699,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1800,
+    "title": "洛奇",
+    "url": "https://movie.douban.com/subject/1295742/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2252066664.jpg",
+    "id": "1295742",
+    "cover_y": 2535,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 512,
+    "title": "卡里加里博士的小屋",
+    "url": "https://movie.douban.com/subject/1292547/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1827646563.jpg",
+    "id": "1292547",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1913,
+    "title": "弗兰西丝·哈",
+    "url": "https://movie.douban.com/subject/11527487/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1927054388.jpg",
+    "id": "11527487",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1999,
+    "title": "开罗紫玫瑰",
+    "url": "https://movie.douban.com/subject/1292994/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2218755965.jpg",
+    "id": "1292994",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 5621,
+    "title": "侏罗纪公园",
+    "url": "https://movie.douban.com/subject/1292523/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg",
+    "id": "1292523",
+    "cover_y": 8000,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 500,
+    "title": "天国王朝",
+    "url": "https://movie.douban.com/subject/1309071/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p460797308.jpg",
+    "id": "1309071",
+    "cover_y": 714,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1610,
+    "title": "好家伙",
+    "url": "https://movie.douban.com/subject/1292268/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1403069323.jpg",
+    "id": "1292268",
+    "cover_y": 2404,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "星球大战2：帝国反击战",
+    "url": "https://movie.douban.com/subject/1296528/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732937546.jpg",
+    "id": "1296528",
+    "cover_y": 599,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2091,
+    "title": "西部往事",
+    "url": "https://movie.douban.com/subject/1293394/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2164100072.jpg",
+    "id": "1293394",
+    "cover_y": 2919,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2140,
+    "title": "克莱默夫妇",
+    "url": "https://movie.douban.com/subject/1300685/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1646672189.jpg",
+    "id": "1300685",
+    "cover_y": 3200,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 972,
+    "title": "我是传奇",
+    "url": "https://movie.douban.com/subject/1820156/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p574158935.jpg",
+    "id": "1820156",
+    "cover_y": 1440,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 400,
+    "title": "小岛惊魂",
+    "url": "https://movie.douban.com/subject/1301459/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492298664.jpg",
+    "id": "1301459",
+    "cover_y": 600,
+    "is_new": false
+  }
+]

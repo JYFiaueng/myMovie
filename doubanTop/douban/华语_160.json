@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 450,
+    "title": "新不了情",
+    "url": "https://movie.douban.com/subject/1292950/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1277982373.jpg",
+    "id": "1292950",
+    "cover_y": 672,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 600,
+    "title": "寻龙诀",
+    "url": "https://movie.douban.com/subject/3077412/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2284620292.jpg",
+    "id": "3077412",
+    "cover_y": 838,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 5906,
+    "title": "夏洛特烦恼",
+    "url": "https://movie.douban.com/subject/25964071/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2264377763.jpg",
+    "id": "25964071",
+    "cover_y": 8268,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 530,
+    "title": "不能说的秘密",
+    "url": "https://movie.douban.com/subject/2124724/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917037900.jpg",
+    "id": "2124724",
+    "cover_y": 750,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1219,
+    "title": "李米的猜想",
+    "url": "https://movie.douban.com/subject/3230459/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p499462449.jpg",
+    "id": "3230459",
+    "cover_y": 1700,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3500,
+    "title": "追凶者也",
+    "url": "https://movie.douban.com/subject/26284621/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375882763.jpg",
+    "id": "26284621",
+    "cover_y": 4898,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 500,
+    "title": "一个字头的诞生",
+    "url": "https://movie.douban.com/subject/1307372/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1929459409.jpg",
+    "id": "1307372",
+    "cover_y": 712,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 2071,
+    "title": "催眠大师",
+    "url": "https://movie.douban.com/subject/24743711/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181062460.jpg",
+    "id": "24743711",
+    "cover_y": 3016,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 438,
+    "title": "自梳",
+    "url": "https://movie.douban.com/subject/1304648/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1072049466.jpg",
+    "id": "1304648",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1865,
+    "title": "路边野餐",
+    "url": "https://movie.douban.com/subject/26337866/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2366570716.jpg",
+    "id": "26337866",
+    "cover_y": 2903,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 2457,
+    "title": "海滩的一天",
+    "url": "https://movie.douban.com/subject/1298871/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2491461655.jpg",
+    "id": "1298871",
+    "cover_y": 3545,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 600,
+    "title": "苏州河",
+    "url": "https://movie.douban.com/subject/1299661/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1401219611.jpg",
+    "id": "1299661",
+    "cover_y": 857,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 505,
+    "title": "本命年",
+    "url": "https://movie.douban.com/subject/1296266/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167550459.jpg",
+    "id": "1296266",
+    "cover_y": 720,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 500,
+    "title": "马路天使",
+    "url": "https://movie.douban.com/subject/1307708/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194956092.jpg",
+    "id": "1307708",
+    "cover_y": 732,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2500,
+    "title": "冈仁波齐",
+    "url": "https://movie.douban.com/subject/26606242/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462387248.jpg",
+    "id": "26606242",
+    "cover_y": 4062,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 4000,
+    "title": "推拿",
+    "url": "https://movie.douban.com/subject/20020577/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211024574.jpg",
+    "id": "20020577",
+    "cover_y": 5600,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 669,
+    "title": "精武门",
+    "url": "https://movie.douban.com/subject/1294991/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2204678296.jpg",
+    "id": "1294991",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1024,
+    "title": "三峡好人",
+    "url": "https://movie.douban.com/subject/1872133/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1974538315.jpg",
+    "id": "1872133",
+    "cover_y": 1441,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 720,
+    "title": "大内密探零零发",
+    "url": "https://movie.douban.com/subject/1329936/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455844666.jpg",
+    "id": "1329936",
+    "cover_y": 1080,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 492,
+    "title": "客途秋恨",
+    "url": "https://movie.douban.com/subject/1308304/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2197624980.jpg",
+    "id": "1308304",
+    "cover_y": 711,
+    "is_new": false
+  }
+]

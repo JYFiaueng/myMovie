@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.3",
+    "cover_x": 500,
+    "title": "三更",
+    "url": "https://movie.douban.com/subject/1307488/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p934871420.jpg",
+    "id": "1307488",
+    "cover_y": 696,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 900,
+    "title": "杀人漫画",
+    "url": "https://movie.douban.com/subject/24695966/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1980106659.jpg",
+    "id": "24695966",
+    "cover_y": 1282,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2834,
+    "title": "隐藏摄像机",
+    "url": "https://movie.douban.com/subject/1438066/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196346399.jpg",
+    "id": "1438066",
+    "cover_y": 3850,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 2121,
+    "title": "破绽",
+    "url": "https://movie.douban.com/subject/1939173/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1179703605.jpg",
+    "id": "1939173",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1002,
+    "title": "国家宝藏：夺宝秘笈",
+    "url": "https://movie.douban.com/subject/1607471/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1102384696.jpg",
+    "id": "1607471",
+    "cover_y": 1492,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 500,
+    "title": "野兽刑警",
+    "url": "https://movie.douban.com/subject/1297683/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2028302298.jpg",
+    "id": "1297683",
+    "cover_y": 646,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 500,
+    "title": "等爱的女孩",
+    "url": "https://movie.douban.com/subject/1309195/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2200559984.jpg",
+    "id": "1309195",
+    "cover_y": 738,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 990,
+    "title": "马布斯博士的遗嘱",
+    "url": "https://movie.douban.com/subject/1441134/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2455226588.jpg",
+    "id": "1441134",
+    "cover_y": 1445,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1000,
+    "title": "鬼打墙",
+    "url": "https://movie.douban.com/subject/10466341/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2377927205.jpg",
+    "id": "10466341",
+    "cover_y": 1436,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1080,
+    "title": "你好，疯子！",
+    "url": "https://movie.douban.com/subject/26696879/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408394301.jpg",
+    "id": "26696879",
+    "cover_y": 1512,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1128,
+    "title": "蛇",
+    "url": "https://movie.douban.com/subject/1304254/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512826366.jpg",
+    "id": "1304254",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 936,
+    "title": "乌鸦",
+    "url": "https://movie.douban.com/subject/1295328/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2108831971.jpg",
+    "id": "1295328",
+    "cover_y": 1309,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1762,
+    "title": "时空罪恶",
+    "url": "https://movie.douban.com/subject/2301242/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1533792590.jpg",
+    "id": "2301242",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1000,
+    "title": "十字街头",
+    "url": "https://movie.douban.com/subject/1299446/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2332332077.jpg",
+    "id": "1299446",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1024,
+    "title": "记忆之夜",
+    "url": "https://movie.douban.com/subject/27047871/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500345435.jpg",
+    "id": "27047871",
+    "cover_y": 1464,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 2004,
+    "title": "范海辛",
+    "url": "https://movie.douban.com/subject/1309136/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1827627208.jpg",
+    "id": "1309136",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1012,
+    "title": "独家新闻",
+    "url": "https://movie.douban.com/subject/1451911/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p620204954.jpg",
+    "id": "1451911",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 418,
+    "title": "蔷花，红莲",
+    "url": "https://movie.douban.com/subject/1308047/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457610525.jpg",
+    "id": "1308047",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 464,
+    "title": "无人生还",
+    "url": "https://movie.douban.com/subject/1292588/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2330510661.jpg",
+    "id": "1292588",
+    "cover_y": 640,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1075,
+    "title": "听风者",
+    "url": "https://movie.douban.com/subject/6041191/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1400056430.jpg",
+    "id": "6041191",
+    "cover_y": 1500,
+    "is_new": false
+  }
+]

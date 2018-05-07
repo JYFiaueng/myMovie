@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.0",
+    "cover_x": 2765,
+    "title": "秘密特工",
+    "url": "https://movie.douban.com/subject/6845667/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2257174963.jpg",
+    "id": "6845667",
+    "cover_y": 4096,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1343,
+    "title": "真实的谎言",
+    "url": "https://movie.douban.com/subject/1292553/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2408831888.jpg",
+    "id": "1292553",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 400,
+    "title": "监狱风云",
+    "url": "https://movie.douban.com/subject/1293422/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2347371309.jpg",
+    "id": "1293422",
+    "cover_y": 597,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 3365,
+    "title": "2012",
+    "url": "https://movie.douban.com/subject/3005875/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p505238859.jpg",
+    "id": "3005875",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1500,
+    "title": "侠女",
+    "url": "https://movie.douban.com/subject/1306490/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2249959791.jpg",
+    "id": "1306490",
+    "cover_y": 2004,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 400,
+    "title": "鹿鼎记",
+    "url": "https://movie.douban.com/subject/1297223/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1655229345.jpg",
+    "id": "1297223",
+    "cover_y": 518,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 570,
+    "title": "桥",
+    "url": "https://movie.douban.com/subject/1305697/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2376777385.jpg",
+    "id": "1305697",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 2075,
+    "title": "碟中谍",
+    "url": "https://movie.douban.com/subject/1292484/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1660124103.jpg",
+    "id": "1292484",
+    "cover_y": 3075,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1715,
+    "title": "死侍",
+    "url": "https://movie.douban.com/subject/3718279/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309264172.jpg",
+    "id": "3718279",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 2023,
+    "title": "终结者",
+    "url": "https://movie.douban.com/subject/1300656/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511430453.jpg",
+    "id": "1300656",
+    "cover_y": 2991,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 412,
+    "title": "杀死比尔2",
+    "url": "https://movie.douban.com/subject/1291584/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910897532.jpg",
+    "id": "1291584",
+    "cover_y": 572,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 933,
+    "title": "勇敢者的游戏",
+    "url": "https://movie.douban.com/subject/1294990/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1530913993.jpg",
+    "id": "1294990",
+    "cover_y": 1401,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 910,
+    "title": "魔兽",
+    "url": "https://movie.douban.com/subject/2131940/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2345947329.jpg",
+    "id": "2131940",
+    "cover_y": 1280,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1200,
+    "title": "星际迷航2：暗黑无界",
+    "url": "https://movie.douban.com/subject/3642843/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1907669506.jpg",
+    "id": "3642843",
+    "cover_y": 1778,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1024,
+    "title": "超人总动员",
+    "url": "https://movie.douban.com/subject/1291577/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2167017148.jpg",
+    "id": "1291577",
+    "cover_y": 1517,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 800,
+    "title": "西北偏北",
+    "url": "https://movie.douban.com/subject/1295872/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1769720671.jpg",
+    "id": "1295872",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1230,
+    "title": "星球大战前传1：幽灵的威胁",
+    "url": "https://movie.douban.com/subject/1294362/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308392633.jpg",
+    "id": "1294362",
+    "cover_y": 1845,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 724,
+    "title": "剑风传奇 黄金时代篇3：降临",
+    "url": "https://movie.douban.com/subject/7051375/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1778898508.jpg",
+    "id": "7051375",
+    "cover_y": 1031,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1027,
+    "title": "金刚",
+    "url": "https://movie.douban.com/subject/1309043/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2177130090.jpg",
+    "id": "1309043",
+    "cover_y": 1451,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1000,
+    "title": "无间道3：终极无间",
+    "url": "https://movie.douban.com/subject/1307694/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1599699269.jpg",
+    "id": "1307694",
+    "cover_y": 1337,
+    "is_new": false
+  }
+]

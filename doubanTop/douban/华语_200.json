@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.5",
+    "cover_x": 583,
+    "title": "细路祥",
+    "url": "https://movie.douban.com/subject/1304758/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1889086570.jpg",
+    "id": "1304758",
+    "cover_y": 781,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 404,
+    "title": "无言的山丘",
+    "url": "https://movie.douban.com/subject/1298944/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2264065260.jpg",
+    "id": "1298944",
+    "cover_y": 653,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 420,
+    "title": "斗牛",
+    "url": "https://movie.douban.com/subject/4009651/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2128617874.jpg",
+    "id": "4009651",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 965,
+    "title": "喋血街头",
+    "url": "https://movie.douban.com/subject/1295344/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1329107141.jpg",
+    "id": "1295344",
+    "cover_y": 1449,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1000,
+    "title": "全民目击",
+    "url": "https://movie.douban.com/subject/11510624/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2091289138.jpg",
+    "id": "11510624",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1024,
+    "title": "十月围城",
+    "url": "https://movie.douban.com/subject/3626416/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1255543227.jpg",
+    "id": "3626416",
+    "cover_y": 1414,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 910,
+    "title": "僵尸",
+    "url": "https://movie.douban.com/subject/22715021/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2153223458.jpg",
+    "id": "22715021",
+    "cover_y": 1280,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1271,
+    "title": "艋舺",
+    "url": "https://movie.douban.com/subject/3737102/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1521593812.jpg",
+    "id": "3737102",
+    "cover_y": 1800,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 679,
+    "title": "追龙",
+    "url": "https://movie.douban.com/subject/26425068/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499052494.jpg",
+    "id": "26425068",
+    "cover_y": 950,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 500,
+    "title": "金玉满堂",
+    "url": "https://movie.douban.com/subject/1295374/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p950775183.jpg",
+    "id": "1295374",
+    "cover_y": 695,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 732,
+    "title": "高山下的花环",
+    "url": "https://movie.douban.com/subject/1422283/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2466163897.jpg",
+    "id": "1422283",
+    "cover_y": 1050,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 5906,
+    "title": "杀生",
+    "url": "https://movie.douban.com/subject/4176542/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1480998631.jpg",
+    "id": "4176542",
+    "cover_y": 8224,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 502,
+    "title": "妈妈再爱我一次",
+    "url": "https://movie.douban.com/subject/1432972/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2196346882.jpg",
+    "id": "1432972",
+    "cover_y": 742,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2168,
+    "title": "猛龙过江",
+    "url": "https://movie.douban.com/subject/1306870/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2191163236.jpg",
+    "id": "1306870",
+    "cover_y": 3087,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 464,
+    "title": "旋风小子",
+    "url": "https://movie.douban.com/subject/1408312/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2352121968.jpg",
+    "id": "1408312",
+    "cover_y": 675,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 413,
+    "title": "大腕",
+    "url": "https://movie.douban.com/subject/1304022/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1232528944.jpg",
+    "id": "1304022",
+    "cover_y": 560,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1593,
+    "title": "幸运是我",
+    "url": "https://movie.douban.com/subject/26351526/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373839669.jpg",
+    "id": "26351526",
+    "cover_y": 2272,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 700,
+    "title": "北京遇上西雅图",
+    "url": "https://movie.douban.com/subject/10574468/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1878328589.jpg",
+    "id": "10574468",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 560,
+    "title": "海上花",
+    "url": "https://movie.douban.com/subject/1303451/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404974368.jpg",
+    "id": "1303451",
+    "cover_y": 781,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 544,
+    "title": "紫日",
+    "url": "https://movie.douban.com/subject/1308078/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1946863252.jpg",
+    "id": "1308078",
+    "cover_y": 800,
+    "is_new": false
+  }
+]

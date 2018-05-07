@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.2",
+    "cover_x": 1005,
+    "title": "玩具总动员",
+    "url": "https://movie.douban.com/subject/1291575/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1158743783.jpg",
+    "id": "1291575",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1200,
+    "title": "孤儿怨",
+    "url": "https://movie.douban.com/subject/3011308/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184386443.jpg",
+    "id": "3011308",
+    "cover_y": 1778,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1984,
+    "title": "月升王国",
+    "url": "https://movie.douban.com/subject/5360889/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1791964116.jpg",
+    "id": "5360889",
+    "cover_y": 2835,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1056,
+    "title": "神探夏洛克：最后的誓言",
+    "url": "https://movie.douban.com/subject/25804790/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2164957248.jpg",
+    "id": "25804790",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2036,
+    "title": "机器管家",
+    "url": "https://movie.douban.com/subject/1292529/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195410751.jpg",
+    "id": "1292529",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1013,
+    "title": "加勒比海盗2：聚魂棺",
+    "url": "https://movie.douban.com/subject/1315574/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1076822803.jpg",
+    "id": "1315574",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1920,
+    "title": "养家之人",
+    "url": "https://movie.douban.com/subject/26346327/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515184536.jpg",
+    "id": "26346327",
+    "cover_y": 2809,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 800,
+    "title": "僵尸新娘",
+    "url": "https://movie.douban.com/subject/1309060/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p735361409.jpg",
+    "id": "1309060",
+    "cover_y": 1181,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1730,
+    "title": "落水狗",
+    "url": "https://movie.douban.com/subject/1299603/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p449528372.jpg",
+    "id": "1299603",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2020,
+    "title": "飓风营救",
+    "url": "https://movie.douban.com/subject/2124586/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1595764830.jpg",
+    "id": "2124586",
+    "cover_y": 2978,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1780,
+    "title": "两小无猜",
+    "url": "https://movie.douban.com/subject/1308817/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475346018.jpg",
+    "id": "1308817",
+    "cover_y": 2380,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1975,
+    "title": "骗中骗",
+    "url": "https://movie.douban.com/subject/1292269/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1227416748.jpg",
+    "id": "1292269",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 553,
+    "title": "与玛格丽特的午后",
+    "url": "https://movie.douban.com/subject/3796613/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p855075428.jpg",
+    "id": "3796613",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1083,
+    "title": "如晴天，似雨天",
+    "url": "https://movie.douban.com/subject/25738406/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2261938616.jpg",
+    "id": "25738406",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 618,
+    "title": "将军号",
+    "url": "https://movie.douban.com/subject/1292778/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248676081.jpg",
+    "id": "1292778",
+    "cover_y": 927,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 750,
+    "title": "哈利·波特与火焰杯",
+    "url": "https://movie.douban.com/subject/1309055/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p735391084.jpg",
+    "id": "1309055",
+    "cover_y": 1110,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 568,
+    "title": "天伦之旅",
+    "url": "https://movie.douban.com/subject/3041749/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1217133544.jpg",
+    "id": "3041749",
+    "cover_y": 857,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2200,
+    "title": "蓝白红三部曲之蓝",
+    "url": "https://movie.douban.com/subject/1292048/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1978408096.jpg",
+    "id": "1292048",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1922,
+    "title": "夜行者",
+    "url": "https://movie.douban.com/subject/25750969/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2203693875.jpg",
+    "id": "25750969",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1014,
+    "title": "走出非洲",
+    "url": "https://movie.douban.com/subject/1291840/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910907281.jpg",
+    "id": "1291840",
+    "cover_y": 1500,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.2",
+    "cover_x": 600,
+    "title": "夏天的故事",
+    "url": "https://movie.douban.com/subject/1302675/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1404178381.jpg",
+    "id": "1302675",
+    "cover_y": 842,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 600,
+    "title": "新桥恋人",
+    "url": "https://movie.douban.com/subject/1291559/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p581792602.jpg",
+    "id": "1291559",
+    "cover_y": 890,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 691,
+    "title": "冬天的故事",
+    "url": "https://movie.douban.com/subject/1293388/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665123572.jpg",
+    "id": "1293388",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 535,
+    "title": "丈夫、太太与情人",
+    "url": "https://movie.douban.com/subject/1301616/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p783804820.jpg",
+    "id": "1301616",
+    "cover_y": 733,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2480,
+    "title": "法兰基，我的爱",
+    "url": "https://movie.douban.com/subject/1309099/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1129637109.jpg",
+    "id": "1309099",
+    "cover_y": 3368,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 578,
+    "title": "公主日记",
+    "url": "https://movie.douban.com/subject/1305065/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2169009638.jpg",
+    "id": "1305065",
+    "cover_y": 854,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1600,
+    "title": "海角七号",
+    "url": "https://movie.douban.com/subject/3158990/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p506963235.jpg",
+    "id": "3158990",
+    "cover_y": 2285,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1710,
+    "title": "保镖",
+    "url": "https://movie.douban.com/subject/1299362/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1679820460.jpg",
+    "id": "1299362",
+    "cover_y": 2563,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1012,
+    "title": "男孩A",
+    "url": "https://movie.douban.com/subject/2251569/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p574349406.jpg",
+    "id": "2251569",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 722,
+    "title": "狗狗与我的十个约定",
+    "url": "https://movie.douban.com/subject/2976111/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1093145688.jpg",
+    "id": "2976111",
+    "cover_y": 992,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1000,
+    "title": "喊·山",
+    "url": "https://movie.douban.com/subject/26106958/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2373887821.jpg",
+    "id": "26106958",
+    "cover_y": 1397,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 642,
+    "title": "哭泣的草原",
+    "url": "https://movie.douban.com/subject/1388180/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1848194326.jpg",
+    "id": "1388180",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 426,
+    "title": "春天情书",
+    "url": "https://movie.douban.com/subject/1858233/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327619627.jpg",
+    "id": "1858233",
+    "cover_y": 616,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 3906,
+    "title": "蓝色情人节",
+    "url": "https://movie.douban.com/subject/2974278/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p710464565.jpg",
+    "id": "2974278",
+    "cover_y": 5778,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 2835,
+    "title": "蓝莓之夜",
+    "url": "https://movie.douban.com/subject/1499148/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2237042966.jpg",
+    "id": "1499148",
+    "cover_y": 3850,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 400,
+    "title": "梁祝",
+    "url": "https://movie.douban.com/subject/1310159/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2125670899.jpg",
+    "id": "1310159",
+    "cover_y": 569,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1173,
+    "title": "2046",
+    "url": "https://movie.douban.com/subject/1291555/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910826560.jpg",
+    "id": "1291555",
+    "cover_y": 1678,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 416,
+    "title": "左右情缘",
+    "url": "https://movie.douban.com/subject/3732861/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453438402.jpg",
+    "id": "3732861",
+    "cover_y": 513,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1500,
+    "title": "美女与野兽",
+    "url": "https://movie.douban.com/subject/25900945/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2417948644.jpg",
+    "id": "25900945",
+    "cover_y": 2100,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 4050,
+    "title": "我爱你莫里斯",
+    "url": "https://movie.douban.com/subject/2361823/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p669366779.jpg",
+    "id": "2361823",
+    "cover_y": 6000,
+    "is_new": false
+  }
+]

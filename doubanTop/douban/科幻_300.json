@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.0",
+    "cover_x": 1062,
+    "title": "壳中少女：排气",
+    "url": "https://movie.douban.com/subject/10355625/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1666780812.jpg",
+    "id": "10355625",
+    "cover_y": 1520,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1062,
+    "title": "大决战！超奥特曼八兄弟",
+    "url": "https://movie.douban.com/subject/3217099/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192662052.jpg",
+    "id": "3217099",
+    "cover_y": 1505,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1009,
+    "title": "预见未来",
+    "url": "https://movie.douban.com/subject/1793909/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1100336420.jpg",
+    "id": "1793909",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1920,
+    "title": "乐高DC超级英雄：闪电侠",
+    "url": "https://movie.douban.com/subject/27609141/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516150873.jpg",
+    "id": "27609141",
+    "cover_y": 2560,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1127,
+    "title": "哆啦A梦：大雄与铁人兵团",
+    "url": "https://movie.douban.com/subject/1458894/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520700067.jpg",
+    "id": "1458894",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 2480,
+    "title": "机器人与弗兰克",
+    "url": "https://movie.douban.com/subject/6875402/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1812054028.jpg",
+    "id": "6875402",
+    "cover_y": 3508,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1633,
+    "title": "不可思议的收缩人",
+    "url": "https://movie.douban.com/subject/1899630/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2197441642.jpg",
+    "id": "1899630",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 400,
+    "title": "阿尔法城",
+    "url": "https://movie.douban.com/subject/1316524/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211802443.jpg",
+    "id": "1316524",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 473,
+    "title": "星际旅行1：无限太空",
+    "url": "https://movie.douban.com/subject/1300089/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209380289.jpg",
+    "id": "1300089",
+    "cover_y": 709,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2430,
+    "title": "星银岛",
+    "url": "https://movie.douban.com/subject/1297666/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2210982462.jpg",
+    "id": "1297666",
+    "cover_y": 3600,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 610,
+    "title": "火影忍者剧场版：忍者之路",
+    "url": "https://movie.douban.com/subject/7152908/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2244537600.jpg",
+    "id": "7152908",
+    "cover_y": 860,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2142,
+    "title": "壳中少女：压缩",
+    "url": "https://movie.douban.com/subject/3041298/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2264105601.jpg",
+    "id": "3041298",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 425,
+    "title": "哆啦A梦：大雄的大魔境",
+    "url": "https://movie.douban.com/subject/1458891/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190036491.jpg",
+    "id": "1458891",
+    "cover_y": 605,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 799,
+    "title": "死亡密码",
+    "url": "https://movie.douban.com/subject/1295783/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1349989987.jpg",
+    "id": "1295783",
+    "cover_y": 1182,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1000,
+    "title": "黑暗正义联盟",
+    "url": "https://movie.douban.com/subject/26277361/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2418038772.jpg",
+    "id": "26277361",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1730,
+    "title": "科洛弗道10号",
+    "url": "https://movie.douban.com/subject/2977957/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2310097289.jpg",
+    "id": "2977957",
+    "cover_y": 2563,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 511,
+    "title": "星际旅行8：第一类接触",
+    "url": "https://movie.douban.com/subject/1299888/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209408788.jpg",
+    "id": "1299888",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 2000,
+    "title": "蝙蝠侠归来",
+    "url": "https://movie.douban.com/subject/1294929/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1502647347.jpg",
+    "id": "1294929",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1078,
+    "title": "机动战士高达 剧场版Ⅲ 相逢在宇宙",
+    "url": "https://movie.douban.com/subject/1767005/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456714561.jpg",
+    "id": "1767005",
+    "cover_y": 1525,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1382,
+    "title": "另一个地球",
+    "url": "https://movie.douban.com/subject/5160385/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1264663678.jpg",
+    "id": "5160385",
+    "cover_y": 2048,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.5",
+    "cover_x": 1009,
+    "title": "人类之子",
+    "url": "https://movie.douban.com/subject/1478064/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1971393744.jpg",
+    "id": "1478064",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1396,
+    "title": "太空旅客",
+    "url": "https://movie.douban.com/subject/3434070/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2410576676.jpg",
+    "id": "3434070",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 567,
+    "title": "神秘博士：下一位博士",
+    "url": "https://movie.douban.com/subject/4249649/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508912846.jpg",
+    "id": "4249649",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 632,
+    "title": "银河铁道999",
+    "url": "https://movie.douban.com/subject/1477924/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg",
+    "id": "1477924",
+    "cover_y": 907,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 618,
+    "title": "银河英雄传说：新战争的序曲",
+    "url": "https://movie.douban.com/subject/3542229/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518590956.jpg",
+    "id": "3542229",
+    "cover_y": 730,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 510,
+    "title": "星际旅行4：抢救未来",
+    "url": "https://movie.douban.com/subject/1293325/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209381378.jpg",
+    "id": "1293325",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1976,
+    "title": "变形金刚3",
+    "url": "https://movie.douban.com/subject/3610047/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1056093671.jpg",
+    "id": "3610047",
+    "cover_y": 2955,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 3475,
+    "title": "特种部队：眼镜蛇的崛起",
+    "url": "https://movie.douban.com/subject/2223596/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1137591422.jpg",
+    "id": "2223596",
+    "cover_y": 5140,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 672,
+    "title": "死亡幻觉",
+    "url": "https://movie.douban.com/subject/1306662/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584631913.jpg",
+    "id": "1306662",
+    "cover_y": 982,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 500,
+    "title": "闪电奇迹",
+    "url": "https://movie.douban.com/subject/1300549/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p703773083.jpg",
+    "id": "1300549",
+    "cover_y": 746,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 3375,
+    "title": "科学怪狗",
+    "url": "https://movie.douban.com/subject/2336783/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1572725518.jpg",
+    "id": "2336783",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1013,
+    "title": "科洛弗档案",
+    "url": "https://movie.douban.com/subject/2144242/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1334135449.jpg",
+    "id": "2144242",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1896,
+    "title": "死亡飞车",
+    "url": "https://movie.douban.com/subject/2132412/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1499972325.jpg",
+    "id": "2132412",
+    "cover_y": 2667,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1030,
+    "title": "生化危机：诅咒",
+    "url": "https://movie.douban.com/subject/5346468/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1713599926.jpg",
+    "id": "5346468",
+    "cover_y": 1455,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄与云之国",
+    "url": "https://movie.douban.com/subject/1458900/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520701519.jpg",
+    "id": "1458900",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 2225,
+    "title": "全面回忆",
+    "url": "https://movie.douban.com/subject/1295870/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1651606648.jpg",
+    "id": "1295870",
+    "cover_y": 3305,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1013,
+    "title": "生化危机3：灭绝",
+    "url": "https://movie.douban.com/subject/1482911/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2165451110.jpg",
+    "id": "1482911",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 439,
+    "title": "福星小子2：绮丽梦中人",
+    "url": "https://movie.douban.com/subject/1467780/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2294150554.jpg",
+    "id": "1467780",
+    "cover_y": 640,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 4429,
+    "title": "疯狂外星人",
+    "url": "https://movie.douban.com/subject/10827341/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2235609577.jpg",
+    "id": "10827341",
+    "cover_y": 5846,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 900,
+    "title": "世界尽头",
+    "url": "https://movie.douban.com/subject/3026572/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1979763511.jpg",
+    "id": "3026572",
+    "cover_y": 1332,
+    "is_new": false
+  }
+]

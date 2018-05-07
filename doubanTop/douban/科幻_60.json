@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.0",
+    "cover_x": 3268,
+    "title": "云图",
+    "url": "https://movie.douban.com/subject/3530403/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1719175505.jpg",
+    "id": "3530403",
+    "cover_y": 4842,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 534,
+    "title": "钢铁侠",
+    "url": "https://movie.douban.com/subject/1432146/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p725871004.jpg",
+    "id": "1432146",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2227,
+    "title": "铁甲钢拳",
+    "url": "https://movie.douban.com/subject/1972729/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1031075041.jpg",
+    "id": "1972729",
+    "cover_y": 3300,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 509,
+    "title": "超时空接触",
+    "url": "https://movie.douban.com/subject/1295647/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453499268.jpg",
+    "id": "1295647",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1000,
+    "title": "黑客帝国动画版",
+    "url": "https://movie.douban.com/subject/1292347/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1185327352.jpg",
+    "id": "1292347",
+    "cover_y": 1471,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1281,
+    "title": "降临",
+    "url": "https://movie.douban.com/subject/21324900/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2411622421.jpg",
+    "id": "21324900",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1457,
+    "title": "守望者",
+    "url": "https://movie.douban.com/subject/1972698/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1663601927.jpg",
+    "id": "1972698",
+    "cover_y": 2160,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 580,
+    "title": "异次元骇客",
+    "url": "https://movie.douban.com/subject/1300282/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1932438619.jpg",
+    "id": "1300282",
+    "cover_y": 858,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1200,
+    "title": "潜行者",
+    "url": "https://movie.douban.com/subject/1295656/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327634482.jpg",
+    "id": "1295656",
+    "cover_y": 1631,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 500,
+    "title": "回到未来2",
+    "url": "https://movie.douban.com/subject/1299092/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475857703.jpg",
+    "id": "1299092",
+    "cover_y": 747,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1383,
+    "title": "无姓之人",
+    "url": "https://movie.douban.com/subject/2076181/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2133687605.jpg",
+    "id": "2076181",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 671,
+    "title": "黑洞频率",
+    "url": "https://movie.douban.com/subject/1294183/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p812857342.jpg",
+    "id": "1294183",
+    "cover_y": 972,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 562,
+    "title": "十二猴子",
+    "url": "https://movie.douban.com/subject/1298744/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p627041570.jpg",
+    "id": "1298744",
+    "cover_y": 859,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1070,
+    "title": "攻壳机动队2.0",
+    "url": "https://movie.douban.com/subject/3142101/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456918283.jpg",
+    "id": "3142101",
+    "cover_y": 1518,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 5621,
+    "title": "侏罗纪公园",
+    "url": "https://movie.douban.com/subject/1292523/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg",
+    "id": "1292523",
+    "cover_y": 8000,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1013,
+    "title": "阿基拉",
+    "url": "https://movie.douban.com/subject/1302770/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p711283071.jpg",
+    "id": "1302770",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "星球大战2：帝国反击战",
+    "url": "https://movie.douban.com/subject/1296528/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732937546.jpg",
+    "id": "1296528",
+    "cover_y": 599,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 972,
+    "title": "我是传奇",
+    "url": "https://movie.douban.com/subject/1820156/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p574158935.jpg",
+    "id": "1820156",
+    "cover_y": 1440,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1800,
+    "title": "美国队长3",
+    "url": "https://movie.douban.com/subject/25820460/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2332503406.jpg",
+    "id": "25820460",
+    "cover_y": 2521,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 480,
+    "title": "星球大战3：绝地归来",
+    "url": "https://movie.douban.com/subject/1297151/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732934345.jpg",
+    "id": "1297151",
+    "cover_y": 725,
+    "is_new": false
+  }
+]

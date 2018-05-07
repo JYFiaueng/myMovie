@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 566,
+    "title": "辉夜姬物语",
+    "url": "https://movie.douban.com/subject/4099231/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155612579.jpg",
+    "id": "4099231",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 568,
+    "title": "神女",
+    "url": "https://movie.douban.com/subject/1302210/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2028929312.jpg",
+    "id": "1302210",
+    "cover_y": 845,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 889,
+    "title": "午夜巴黎",
+    "url": "https://movie.douban.com/subject/4319218/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p944234798.jpg",
+    "id": "4319218",
+    "cover_y": 1309,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 3375,
+    "title": "逃离德黑兰",
+    "url": "https://movie.douban.com/subject/6549903/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1844091387.jpg",
+    "id": "6549903",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 550,
+    "title": "剃头匠",
+    "url": "https://movie.douban.com/subject/3097352/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2186918733.jpg",
+    "id": "3097352",
+    "cover_y": 785,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 717,
+    "title": "老炮儿",
+    "url": "https://movie.douban.com/subject/24751756/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2292976849.jpg",
+    "id": "24751756",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1000,
+    "title": "日落大道",
+    "url": "https://movie.douban.com/subject/1298733/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1119483806.jpg",
+    "id": "1298733",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 486,
+    "title": "刺杀肯尼迪",
+    "url": "https://movie.douban.com/subject/1292230/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p967284986.jpg",
+    "id": "1292230",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 3420,
+    "title": "明日边缘",
+    "url": "https://movie.douban.com/subject/4746257/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2185073849.jpg",
+    "id": "4746257",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 2085,
+    "title": "对她说",
+    "url": "https://movie.douban.com/subject/1292211/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1108397218.jpg",
+    "id": "1292211",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 490,
+    "title": "单身男子",
+    "url": "https://movie.douban.com/subject/3275168/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p468904919.jpg",
+    "id": "3275168",
+    "cover_y": 700,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1005,
+    "title": "玩具总动员",
+    "url": "https://movie.douban.com/subject/1291575/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1158743783.jpg",
+    "id": "1291575",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1200,
+    "title": "孤儿怨",
+    "url": "https://movie.douban.com/subject/3011308/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184386443.jpg",
+    "id": "3011308",
+    "cover_y": 1778,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1000,
+    "title": "上帝也疯狂2",
+    "url": "https://movie.douban.com/subject/1294490/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1306760079.jpg",
+    "id": "1294490",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 938,
+    "title": "爱在暹罗",
+    "url": "https://movie.douban.com/subject/2365260/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1024585648.jpg",
+    "id": "2365260",
+    "cover_y": 1328,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 565,
+    "title": "百元之恋",
+    "url": "https://movie.douban.com/subject/25761178/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2205471169.jpg",
+    "id": "25761178",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1984,
+    "title": "月升王国",
+    "url": "https://movie.douban.com/subject/5360889/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1791964116.jpg",
+    "id": "5360889",
+    "cover_y": 2835,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1056,
+    "title": "神探夏洛克：最后的誓言",
+    "url": "https://movie.douban.com/subject/25804790/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2164957248.jpg",
+    "id": "25804790",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2036,
+    "title": "机器管家",
+    "url": "https://movie.douban.com/subject/1292529/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195410751.jpg",
+    "id": "1292529",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1013,
+    "title": "加勒比海盗2：聚魂棺",
+    "url": "https://movie.douban.com/subject/1315574/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1076822803.jpg",
+    "id": "1315574",
+    "cover_y": 1500,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.1",
+    "cover_x": 517,
+    "title": "听到涛声",
+    "url": "https://movie.douban.com/subject/1418640/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1137708892.jpg",
+    "id": "1418640",
+    "cover_y": 763,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 400,
+    "title": "我出生了，但……",
+    "url": "https://movie.douban.com/subject/1299360/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1964113703.jpg",
+    "id": "1299360",
+    "cover_y": 570,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 874,
+    "title": "摇摆少女",
+    "url": "https://movie.douban.com/subject/1361254/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p638255684.jpg",
+    "id": "1361254",
+    "cover_y": 1240,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 565,
+    "title": "机动战士高达 THE ORIGIN I 青瞳的卡斯巴尔",
+    "url": "https://movie.douban.com/subject/19897541/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2212678557.jpg",
+    "id": "19897541",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 678,
+    "title": "伊豆的舞女",
+    "url": "https://movie.douban.com/subject/1421733/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p939020358.jpg",
+    "id": "1421733",
+    "cover_y": 984,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 709,
+    "title": "蜡笔小新之呼风唤雨！夕阳下的春日部男孩",
+    "url": "https://movie.douban.com/subject/1962611/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2435714673.jpg",
+    "id": "1962611",
+    "cover_y": 999,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1069,
+    "title": "异邦人：无皇刃谭",
+    "url": "https://movie.douban.com/subject/2277204/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456836953.jpg",
+    "id": "2277204",
+    "cover_y": 1512,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 568,
+    "title": "亚人1：冲动",
+    "url": "https://movie.douban.com/subject/26386465/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2267694939.jpg",
+    "id": "26386465",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 567,
+    "title": "深夜食堂电影版",
+    "url": "https://movie.douban.com/subject/25958787/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2205014862.jpg",
+    "id": "25958787",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2196,
+    "title": "意外的幸运签",
+    "url": "https://movie.douban.com/subject/4934987/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p628018540.jpg",
+    "id": "4934987",
+    "cover_y": 3074,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 422,
+    "title": "人狼",
+    "url": "https://movie.douban.com/subject/1306255/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1245102664.jpg",
+    "id": "1306255",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2142,
+    "title": "交响情人梦 最终乐章 前篇",
+    "url": "https://movie.douban.com/subject/3335463/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p575387624.jpg",
+    "id": "3335463",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 714,
+    "title": "恋爱回旋",
+    "url": "https://movie.douban.com/subject/26972275/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515437624.jpg",
+    "id": "26972275",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 2480,
+    "title": "少女与战车 剧场版",
+    "url": "https://movie.douban.com/subject/24460604/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2290872319.jpg",
+    "id": "24460604",
+    "cover_y": 3500,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 452,
+    "title": "古畑任三郎完结篇 重生之死",
+    "url": "https://movie.douban.com/subject/10558405/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155138409.jpg",
+    "id": "10558405",
+    "cover_y": 640,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 560,
+    "title": "数码宝贝大电影一：滚球兽的诞生",
+    "url": "https://movie.douban.com/subject/1303927/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2282582530.jpg",
+    "id": "1303927",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1200,
+    "title": "怒",
+    "url": "https://movie.douban.com/subject/26279289/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399174377.jpg",
+    "id": "26279289",
+    "cover_y": 1698,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1450,
+    "title": "0.5毫米",
+    "url": "https://movie.douban.com/subject/21767183/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2507377459.jpg",
+    "id": "21767183",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2142,
+    "title": "极恶非道",
+    "url": "https://movie.douban.com/subject/3819939/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2254632477.jpg",
+    "id": "3819939",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 610,
+    "title": "剑风传奇 黄金时代篇2：多尔多雷攻略",
+    "url": "https://movie.douban.com/subject/7051373/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1464669835.jpg",
+    "id": "7051373",
+    "cover_y": 864,
+    "is_new": false
+  }
+]

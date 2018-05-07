@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.6",
+    "cover_x": 1280,
+    "title": "芝加哥",
+    "url": "https://movie.douban.com/subject/1307697/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1571966850.jpg",
+    "id": "1307697",
+    "cover_y": 1888,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1500,
+    "title": "大坏狐狸的故事",
+    "url": "https://movie.douban.com/subject/27042405/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515632084.jpg",
+    "id": "27042405",
+    "cover_y": 2222,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1000,
+    "title": "欢乐好声音",
+    "url": "https://movie.douban.com/subject/26354572/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg",
+    "id": "26354572",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 567,
+    "title": "热情如火",
+    "url": "https://movie.douban.com/subject/1292574/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p860250155.jpg",
+    "id": "1292574",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 628,
+    "title": "九品芝麻官",
+    "url": "https://movie.douban.com/subject/1297518/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg",
+    "id": "1297518",
+    "cover_y": 1009,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1140,
+    "title": "巴黎淘气帮",
+    "url": "https://movie.douban.com/subject/3157605/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p465446537.jpg",
+    "id": "3157605",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 2143,
+    "title": "功夫",
+    "url": "https://movie.douban.com/subject/1291543/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg",
+    "id": "1291543",
+    "cover_y": 2993,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 312,
+    "title": "疯狂约会美丽都",
+    "url": "https://movie.douban.com/subject/1291565/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910831922.jpg",
+    "id": "1291565",
+    "cover_y": 426,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 2142,
+    "title": "银魂剧场版：新译红樱篇",
+    "url": "https://movie.douban.com/subject/4122194/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p612363092.jpg",
+    "id": "4122194",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2015,
+    "title": "海底总动员",
+    "url": "https://movie.douban.com/subject/1291586/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1755893801.jpg",
+    "id": "1291586",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 799,
+    "title": "甲方乙方",
+    "url": "https://movie.douban.com/subject/1303173/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2436823425.jpg",
+    "id": "1303173",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 724,
+    "title": "盗钥匙的方法",
+    "url": "https://movie.douban.com/subject/6880497/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1979399699.jpg",
+    "id": "6880497",
+    "cover_y": 1016,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1013,
+    "title": "里约大冒险",
+    "url": "https://movie.douban.com/subject/3731581/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2170811687.jpg",
+    "id": "3731581",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 600,
+    "title": "蝴蝶",
+    "url": "https://movie.douban.com/subject/1292056/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1451436171.jpg",
+    "id": "1292056",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 947,
+    "title": "极品基老伴：2013圣诞特辑",
+    "url": "https://movie.douban.com/subject/25758898/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187166976.jpg",
+    "id": "25758898",
+    "cover_y": 1407,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 534,
+    "title": "再见列宁",
+    "url": "https://movie.douban.com/subject/1292055/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p478546260.jpg",
+    "id": "1292055",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "9.6",
+    "cover_x": 450,
+    "title": "憨豆先生精选辑",
+    "url": "https://movie.douban.com/subject/5133063/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2354179225.jpg",
+    "id": "5133063",
+    "cover_y": 680,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 400,
+    "title": "蜡笔小新之呼风唤雨！大人帝国的反击",
+    "url": "https://movie.douban.com/subject/1958667/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327107485.jpg",
+    "id": "1958667",
+    "cover_y": 559,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 500,
+    "title": "美食总动员",
+    "url": "https://movie.douban.com/subject/1793491/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465604496.jpg",
+    "id": "1793491",
+    "cover_y": 735,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 900,
+    "title": "奇怪的她",
+    "url": "https://movie.douban.com/subject/24879820/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2162863558.jpg",
+    "id": "24879820",
+    "cover_y": 1290,
+    "is_new": false
+  }
+]

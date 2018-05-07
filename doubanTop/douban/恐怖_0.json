@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.9",
+    "cover_x": 1000,
+    "title": "惊魂记",
+    "url": "https://movie.douban.com/subject/1293181/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "id": "1293181",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 799,
+    "title": "闪灵",
+    "url": "https://movie.douban.com/subject/1292225/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2026663886.jpg",
+    "id": "1292225",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1200,
+    "title": "孤儿怨",
+    "url": "https://movie.douban.com/subject/3011308/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184386443.jpg",
+    "id": "3011308",
+    "cover_y": 1778,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 512,
+    "title": "卡里加里博士的小屋",
+    "url": "https://movie.douban.com/subject/1292547/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1827646563.jpg",
+    "id": "1292547",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 972,
+    "title": "我是传奇",
+    "url": "https://movie.douban.com/subject/1820156/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p574158935.jpg",
+    "id": "1820156",
+    "cover_y": 1440,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 400,
+    "title": "小岛惊魂",
+    "url": "https://movie.douban.com/subject/1301459/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492298664.jpg",
+    "id": "1301459",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1000,
+    "title": "异形",
+    "url": "https://movie.douban.com/subject/1300868/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1756402567.jpg",
+    "id": "1300868",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 509,
+    "title": "万能钥匙",
+    "url": "https://movie.douban.com/subject/1418752/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p810384382.jpg",
+    "id": "1418752",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1020,
+    "title": "迷雾",
+    "url": "https://movie.douban.com/subject/1945330/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1970406441.jpg",
+    "id": "1945330",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 2526,
+    "title": "逃出绝命镇",
+    "url": "https://movie.douban.com/subject/26688480/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508604641.jpg",
+    "id": "26688480",
+    "cover_y": 4000,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 799,
+    "title": "异形2",
+    "url": "https://movie.douban.com/subject/1293792/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184040673.jpg",
+    "id": "1293792",
+    "cover_y": 1251,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3385,
+    "title": "招魂",
+    "url": "https://movie.douban.com/subject/3804629/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1936517673.jpg",
+    "id": "3804629",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 499,
+    "title": "回魂夜",
+    "url": "https://movie.douban.com/subject/1299765/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1020527660.jpg",
+    "id": "1299765",
+    "cover_y": 727,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1535,
+    "title": "死神来了",
+    "url": "https://movie.douban.com/subject/1300300/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1332799477.jpg",
+    "id": "1300300",
+    "cover_y": 2174,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3375,
+    "title": "招魂2",
+    "url": "https://movie.douban.com/subject/24860563/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2360924286.jpg",
+    "id": "24860563",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 910,
+    "title": "僵尸",
+    "url": "https://movie.douban.com/subject/22715021/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2153223458.jpg",
+    "id": "22715021",
+    "cover_y": 1280,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 408,
+    "title": "怪谈",
+    "url": "https://movie.douban.com/subject/1303083/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p716970089.jpg",
+    "id": "1303083",
+    "cover_y": 572,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1012,
+    "title": "潜伏2",
+    "url": "https://movie.douban.com/subject/10485526/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2044151740.jpg",
+    "id": "10485526",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1000,
+    "title": "罗斯玛丽的婴儿",
+    "url": "https://movie.douban.com/subject/1293852/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1209403924.jpg",
+    "id": "1293852",
+    "cover_y": 1526,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1565,
+    "title": "僵尸肖恩",
+    "url": "https://movie.douban.com/subject/1308755/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1429482773.jpg",
+    "id": "1308755",
+    "cover_y": 2126,
+    "is_new": false
+  }
+]

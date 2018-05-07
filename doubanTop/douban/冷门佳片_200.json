@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.2",
+    "cover_x": 1000,
+    "title": "啪嗒啪嗒",
+    "url": "https://movie.douban.com/subject/10558447/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1644911676.jpg",
+    "id": "10558447",
+    "cover_y": 1430,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 570,
+    "title": "四海本色",
+    "url": "https://movie.douban.com/subject/1305032/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173109515.jpg",
+    "id": "1305032",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1352,
+    "title": "编织的女孩",
+    "url": "https://movie.douban.com/subject/1295785/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248289396.jpg",
+    "id": "1295785",
+    "cover_y": 1780,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 748,
+    "title": "过客",
+    "url": "https://movie.douban.com/subject/1478142/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2152885924.jpg",
+    "id": "1478142",
+    "cover_y": 1023,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 589,
+    "title": "万家灯火",
+    "url": "https://movie.douban.com/subject/1419052/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2029619707.jpg",
+    "id": "1419052",
+    "cover_y": 846,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "推销员之死",
+    "url": "https://movie.douban.com/subject/1296762/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p943052816.jpg",
+    "id": "1296762",
+    "cover_y": 567,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 670,
+    "title": "搬家",
+    "url": "https://movie.douban.com/subject/1401240/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1867099944.jpg",
+    "id": "1401240",
+    "cover_y": 967,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 509,
+    "title": "那天妈妈来看我",
+    "url": "https://movie.douban.com/subject/25757182/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2219113072.jpg",
+    "id": "25757182",
+    "cover_y": 720,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 566,
+    "title": "尼伯龙根：西格弗里德之死",
+    "url": "https://movie.douban.com/subject/1298312/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455300134.jpg",
+    "id": "1298312",
+    "cover_y": 745,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 546,
+    "title": "清水湾的孩子",
+    "url": "https://movie.douban.com/subject/1301304/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1241039626.jpg",
+    "id": "1301304",
+    "cover_y": 733,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 688,
+    "title": "红军与白军",
+    "url": "https://movie.douban.com/subject/1301261/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1389877715.jpg",
+    "id": "1301261",
+    "cover_y": 984,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 675,
+    "title": "老男人",
+    "url": "https://movie.douban.com/subject/26350129/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2247488589.jpg",
+    "id": "26350129",
+    "cover_y": 960,
+    "is_new": true
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 540,
+    "title": "寅次郎的故事1",
+    "url": "https://movie.douban.com/subject/1298487/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2333002341.jpg",
+    "id": "1298487",
+    "cover_y": 730,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 550,
+    "title": "小猫的故事",
+    "url": "https://movie.douban.com/subject/1295401/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1880458596.jpg",
+    "id": "1295401",
+    "cover_y": 776,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 678,
+    "title": "豆满江",
+    "url": "https://movie.douban.com/subject/4262249/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p862943814.jpg",
+    "id": "4262249",
+    "cover_y": 969,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 400,
+    "title": "红发会",
+    "url": "https://movie.douban.com/subject/3603181/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511442242.jpg",
+    "id": "3603181",
+    "cover_y": 700,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 2198,
+    "title": "空之境界 总集篇",
+    "url": "https://movie.douban.com/subject/20277254/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2205068176.jpg",
+    "id": "20277254",
+    "cover_y": 3012,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "南方",
+    "url": "https://movie.douban.com/subject/1477717/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1470973920.jpg",
+    "id": "1477717",
+    "cover_y": 570,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "受影响的女人",
+    "url": "https://movie.douban.com/subject/1293525/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211590622.jpg",
+    "id": "1293525",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 936,
+    "title": "遗失的世界",
+    "url": "https://movie.douban.com/subject/1296286/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2183434145.jpg",
+    "id": "1296286",
+    "cover_y": 1319,
+    "is_new": false
+  }
+]

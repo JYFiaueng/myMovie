@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.4",
+    "cover_x": 426,
+    "title": "第68届NHK红白歌会",
+    "url": "https://movie.douban.com/subject/27198137/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509629907.jpg",
+    "id": "27198137",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1200,
+    "title": "怪物之子",
+    "url": "https://movie.douban.com/subject/26280710/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2238784204.jpg",
+    "id": "26280710",
+    "cover_y": 1699,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1064,
+    "title": "人间的条件(第一、二部)",
+    "url": "https://movie.douban.com/subject/1298561/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327865956.jpg",
+    "id": "1298561",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 2149,
+    "title": "重力小丑",
+    "url": "https://movie.douban.com/subject/3727653/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p959347394.jpg",
+    "id": "3727653",
+    "cover_y": 2994,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 800,
+    "title": "名侦探柯南：侦探们的镇魂歌",
+    "url": "https://movie.douban.com/subject/1827955/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453734998.jpg",
+    "id": "1827955",
+    "cover_y": 1113,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2048,
+    "title": "迪迦奥特曼最终圣战",
+    "url": "https://movie.douban.com/subject/3321892/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2385140076.jpg",
+    "id": "3321892",
+    "cover_y": 2896,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1023,
+    "title": "记忆中的玛妮",
+    "url": "https://movie.douban.com/subject/25790555/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2189907988.jpg",
+    "id": "25790555",
+    "cover_y": 1442,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1200,
+    "title": "穿越时空的思念",
+    "url": "https://movie.douban.com/subject/1464449/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517464938.jpg",
+    "id": "1464449",
+    "cover_y": 1694,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 559,
+    "title": "致亲爱的你",
+    "url": "https://movie.douban.com/subject/6814906/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1861030042.jpg",
+    "id": "6814906",
+    "cover_y": 805,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 518,
+    "title": "谈谈情跳跳舞",
+    "url": "https://movie.douban.com/subject/1308010/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1696723957.jpg",
+    "id": "1308010",
+    "cover_y": 728,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 443,
+    "title": "永远的三丁目的夕阳之1964",
+    "url": "https://movie.douban.com/subject/5967829/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1125959226.jpg",
+    "id": "5967829",
+    "cover_y": 625,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 426,
+    "title": "钢之炼金术师：香巴拉的征服者",
+    "url": "https://movie.douban.com/subject/1448755/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2326434031.jpg",
+    "id": "1448755",
+    "cover_y": 603,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 559,
+    "title": "早死早投胎之地狱摇滚篇",
+    "url": "https://movie.douban.com/subject/26413269/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2279313881.jpg",
+    "id": "26413269",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1429,
+    "title": "四月一日灵异事件簿剧场版：仲夏夜之梦",
+    "url": "https://movie.douban.com/subject/1764361/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181265210.jpg",
+    "id": "1764361",
+    "cover_y": 2021,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1000,
+    "title": "忍者蝙蝠侠",
+    "url": "https://movie.douban.com/subject/27160683/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2506695706.jpg",
+    "id": "27160683",
+    "cover_y": 1408,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 473,
+    "title": "秘密花园",
+    "url": "https://movie.douban.com/subject/1720137/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1090113289.jpg",
+    "id": "1720137",
+    "cover_y": 683,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1755,
+    "title": "鲁邦三世：卡里奥斯特罗城",
+    "url": "https://movie.douban.com/subject/1432436/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446259907.jpg",
+    "id": "1432436",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 545,
+    "title": "蜡笔小新：决一胜负！逆袭的机器人爸爸",
+    "url": "https://movie.douban.com/subject/25792824/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173344684.jpg",
+    "id": "25792824",
+    "cover_y": 768,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1433,
+    "title": "夏威夷男孩",
+    "url": "https://movie.douban.com/subject/3543262/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2202387821.jpg",
+    "id": "3543262",
+    "cover_y": 2028,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 640,
+    "title": "浪客剑心：传说的完结篇",
+    "url": "https://movie.douban.com/subject/24845116/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194586665.jpg",
+    "id": "24845116",
+    "cover_y": 906,
+    "is_new": false
+  }
+]

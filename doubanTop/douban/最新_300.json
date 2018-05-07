@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "6.6",
+    "cover_x": 1080,
+    "title": "大鱼海棠",
+    "url": "https://movie.douban.com/subject/5045678/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2361744534.jpg",
+    "id": "5045678",
+    "cover_y": 1620,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 2765,
+    "title": "军火贩",
+    "url": "https://movie.douban.com/subject/6872936/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327059162.jpg",
+    "id": "6872936",
+    "cover_y": 4096,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1327,
+    "title": "电锯惊魂8：竖锯",
+    "url": "https://movie.douban.com/subject/25788426/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499761124.jpg",
+    "id": "25788426",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 1000,
+    "title": "通勤营救",
+    "url": "https://movie.douban.com/subject/7056414/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517770792.jpg",
+    "id": "7056414",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 4430,
+    "title": "八月",
+    "url": "https://movie.douban.com/subject/26820836/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2448419180.jpg",
+    "id": "26820836",
+    "cover_y": 6791,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1800,
+    "title": "厕所英雄",
+    "url": "https://movie.douban.com/subject/26942645/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2509094259.jpg",
+    "id": "26942645",
+    "cover_y": 2400,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 716,
+    "title": "一路顺风",
+    "url": "https://movie.douban.com/subject/26769480/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505096603.jpg",
+    "id": "26769480",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 690,
+    "title": "青年警察",
+    "url": "https://movie.douban.com/subject/26892281/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496271058.jpg",
+    "id": "26892281",
+    "cover_y": 986,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1500,
+    "title": "他们先杀了我父亲：一个柬埔寨女儿的回忆录",
+    "url": "https://movie.douban.com/subject/26578144/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494939843.jpg",
+    "id": "26578144",
+    "cover_y": 2222,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1381,
+    "title": "夜晚的灵魂",
+    "url": "https://movie.douban.com/subject/26611090/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501476026.jpg",
+    "id": "26611090",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 540,
+    "title": "德惠翁主",
+    "url": "https://movie.douban.com/subject/10774104/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2359023575.jpg",
+    "id": "10774104",
+    "cover_y": 772,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 5906,
+    "title": "惊天大逆转",
+    "url": "https://movie.douban.com/subject/26375609/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363070684.jpg",
+    "id": "26375609",
+    "cover_y": 8267,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1476,
+    "title": "何者",
+    "url": "https://movie.douban.com/subject/26683353/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2413428905.jpg",
+    "id": "26683353",
+    "cover_y": 2089,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1383,
+    "title": "类人猿行动",
+    "url": "https://movie.douban.com/subject/26335580/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2360052887.jpg",
+    "id": "26335580",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 640,
+    "title": "永远的托词",
+    "url": "https://movie.douban.com/subject/26581774/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2362603905.jpg",
+    "id": "26581774",
+    "cover_y": 903,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 693,
+    "title": "遗忘诗行",
+    "url": "https://movie.douban.com/subject/27123688/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499583951.jpg",
+    "id": "27123688",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 1000,
+    "title": "九条命",
+    "url": "https://movie.douban.com/subject/26314816/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2378310691.jpg",
+    "id": "26314816",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 801,
+    "title": "老幸运",
+    "url": "https://movie.douban.com/subject/26992683/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2454512046.jpg",
+    "id": "26992683",
+    "cover_y": 1188,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3914,
+    "title": "心律失常",
+    "url": "https://movie.douban.com/subject/27047917/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2460952931.jpg",
+    "id": "27047917",
+    "cover_y": 5592,
+    "is_new": true
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 460,
+    "title": "哥",
+    "url": "https://movie.douban.com/subject/26582438/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393994340.jpg",
+    "id": "26582438",
+    "cover_y": 655,
+    "is_new": false
+  }
+]

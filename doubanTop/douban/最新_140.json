@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.2",
+    "cover_x": 1500,
+    "title": "美女与野兽",
+    "url": "https://movie.douban.com/subject/25900945/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2417948644.jpg",
+    "id": "25900945",
+    "cover_y": 2100,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 950,
+    "title": "南汉山城",
+    "url": "https://movie.douban.com/subject/26800978/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2505021598.jpg",
+    "id": "26800978",
+    "cover_y": 1361,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 4050,
+    "title": "鬼魅浮生",
+    "url": "https://movie.douban.com/subject/26920017/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497252402.jpg",
+    "id": "26920017",
+    "cover_y": 6000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 709,
+    "title": "航海王之黄金城",
+    "url": "https://movie.douban.com/subject/26598021/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2392493260.jpg",
+    "id": "26598021",
+    "cover_y": 1036,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 674,
+    "title": "无名女尸",
+    "url": "https://movie.douban.com/subject/26339213/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2407543903.jpg",
+    "id": "26339213",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 2000,
+    "title": "十万个冷笑话2",
+    "url": "https://movie.douban.com/subject/26759539/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492917402.jpg",
+    "id": "26759539",
+    "cover_y": 3125,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1968,
+    "title": "星球大战8：最后的绝地武士",
+    "url": "https://movie.douban.com/subject/22265634/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506694509.jpg",
+    "id": "22265634",
+    "cover_y": 2756,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1687,
+    "title": "夜行动物",
+    "url": "https://movie.douban.com/subject/26353372/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2391556881.jpg",
+    "id": "26353372",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 2835,
+    "title": "一袋弹子",
+    "url": "https://movie.douban.com/subject/26936217/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520545137.jpg",
+    "id": "26936217",
+    "cover_y": 3850,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2835,
+    "title": "推销员",
+    "url": "https://movie.douban.com/subject/26679552/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2386724199.jpg",
+    "id": "26679552",
+    "cover_y": 3780,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1200,
+    "title": "英伦对决",
+    "url": "https://movie.douban.com/subject/25723583/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499135561.jpg",
+    "id": "25723583",
+    "cover_y": 1875,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 722,
+    "title": "伤物语3：冷血篇",
+    "url": "https://movie.douban.com/subject/26635321/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2449813668.jpg",
+    "id": "26635321",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1024,
+    "title": "毕业会考",
+    "url": "https://movie.douban.com/subject/26340305/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2352350523.jpg",
+    "id": "26340305",
+    "cover_y": 1426,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 600,
+    "title": "极恶非道3",
+    "url": "https://movie.douban.com/subject/26862893/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2493086298.jpg",
+    "id": "26862893",
+    "cover_y": 849,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1382,
+    "title": "你好布拉德",
+    "url": "https://movie.douban.com/subject/26981174/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497190395.jpg",
+    "id": "26981174",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1000,
+    "title": "浪矢解忧杂货店",
+    "url": "https://movie.douban.com/subject/26742730/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511434383.jpg",
+    "id": "26742730",
+    "cover_y": 1415,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1263,
+    "title": "速度与激情8",
+    "url": "https://movie.douban.com/subject/26260853/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2444256500.jpg",
+    "id": "26260853",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 3333,
+    "title": "明日的我与昨日的你约会",
+    "url": "https://movie.douban.com/subject/26707472/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2390682054.jpg",
+    "id": "26707472",
+    "cover_y": 4697,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 3440,
+    "title": "王牌特工2：黄金圈",
+    "url": "https://movie.douban.com/subject/26378579/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499792043.jpg",
+    "id": "26378579",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1382,
+    "title": "成长边缘",
+    "url": "https://movie.douban.com/subject/6873905/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2367571887.jpg",
+    "id": "6873905",
+    "cover_y": 2048,
+    "is_new": false
+  }
+]

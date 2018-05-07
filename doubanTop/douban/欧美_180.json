@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 1950,
+    "title": "国王的演讲",
+    "url": "https://movie.douban.com/subject/4023638/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768879237.jpg",
+    "id": "4023638",
+    "cover_y": 2850,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2100,
+    "title": "发条橙",
+    "url": "https://movie.douban.com/subject/1292233/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg",
+    "id": "1292233",
+    "cover_y": 3156,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 2000,
+    "title": "你逃我也逃",
+    "url": "https://movie.douban.com/subject/1303418/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1339915772.jpg",
+    "id": "1303418",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1619,
+    "title": "了不起的狐狸爸爸",
+    "url": "https://movie.douban.com/subject/1759386/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174698025.jpg",
+    "id": "1759386",
+    "cover_y": 2400,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 2363,
+    "title": "叫我第一名",
+    "url": "https://movie.douban.com/subject/4798888/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p628364149.jpg",
+    "id": "4798888",
+    "cover_y": 3151,
+    "is_new": false
+  },
+  {
+    "rate": "9.4",
+    "cover_x": 1340,
+    "title": "福尔摩斯二世",
+    "url": "https://movie.douban.com/subject/1303408/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2206737207.jpg",
+    "id": "1303408",
+    "cover_y": 2112,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1013,
+    "title": "美国丽人",
+    "url": "https://movie.douban.com/subject/1292062/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p571671715.jpg",
+    "id": "1292062",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 606,
+    "title": "勇闯夺命岛",
+    "url": "https://movie.douban.com/subject/1292728/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p636048104.jpg",
+    "id": "1292728",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 2025,
+    "title": "相助",
+    "url": "https://movie.douban.com/subject/3792848/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1225179026.jpg",
+    "id": "3792848",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1980,
+    "title": "莫里斯",
+    "url": "https://movie.douban.com/subject/1293456/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455549510.jpg",
+    "id": "1293456",
+    "cover_y": 2880,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 664,
+    "title": "碧海蓝天",
+    "url": "https://movie.douban.com/subject/1300960/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455722535.jpg",
+    "id": "1300960",
+    "cover_y": 880,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 3462,
+    "title": "少年时代",
+    "url": "https://movie.douban.com/subject/2209575/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187391526.jpg",
+    "id": "2209575",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 812,
+    "title": "大独裁者",
+    "url": "https://movie.douban.com/subject/1295646/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1960167314.jpg",
+    "id": "1295646",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1800,
+    "title": "帕丁顿熊2",
+    "url": "https://movie.douban.com/subject/26340419/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506466229.jpg",
+    "id": "26340419",
+    "cover_y": 2520,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 700,
+    "title": "萨利机长",
+    "url": "https://movie.douban.com/subject/26416603/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2403319543.jpg",
+    "id": "26416603",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 716,
+    "title": "荒岛余生",
+    "url": "https://movie.douban.com/subject/1298653/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2207673537.jpg",
+    "id": "1298653",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 800,
+    "title": "廊桥遗梦",
+    "url": "https://movie.douban.com/subject/1293929/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190558219.jpg",
+    "id": "1293929",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1732,
+    "title": "月球",
+    "url": "https://movie.douban.com/subject/3073124/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p449399746.jpg",
+    "id": "3073124",
+    "cover_y": 2551,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1373,
+    "title": "冰雪奇缘",
+    "url": "https://movie.douban.com/subject/4202982/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2166640945.jpg",
+    "id": "4202982",
+    "cover_y": 1969,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1013,
+    "title": "变脸",
+    "url": "https://movie.douban.com/subject/1292659/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173855883.jpg",
+    "id": "1292659",
+    "cover_y": 1500,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.5",
+    "cover_x": 2701,
+    "title": "机械姬",
+    "url": "https://movie.douban.com/subject/4160540/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2208934451.jpg",
+    "id": "4160540",
+    "cover_y": 4000,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1013,
+    "title": "独行杀手",
+    "url": "https://movie.douban.com/subject/1300966/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2276173501.jpg",
+    "id": "1300966",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 5906,
+    "title": "杀生",
+    "url": "https://movie.douban.com/subject/4176542/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1480998631.jpg",
+    "id": "4176542",
+    "cover_y": 8224,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1000,
+    "title": "巴顿·芬克",
+    "url": "https://movie.douban.com/subject/1298043/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1058380546.jpg",
+    "id": "1298043",
+    "cover_y": 1490,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 580,
+    "title": "恶魔",
+    "url": "https://movie.douban.com/subject/1293213/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p773231320.jpg",
+    "id": "1293213",
+    "cover_y": 782,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 746,
+    "title": "爱德华大夫",
+    "url": "https://movie.douban.com/subject/1293973/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1884306259.jpg",
+    "id": "1293973",
+    "cover_y": 1137,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2025,
+    "title": "猎凶风河谷",
+    "url": "https://movie.douban.com/subject/26389601/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2463178431.jpg",
+    "id": "26389601",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 3375,
+    "title": "时间旅行者的妻子",
+    "url": "https://movie.douban.com/subject/1885124/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480590433.jpg",
+    "id": "1885124",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1000,
+    "title": "罗斯玛丽的婴儿",
+    "url": "https://movie.douban.com/subject/1293852/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1209403924.jpg",
+    "id": "1293852",
+    "cover_y": 1526,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 894,
+    "title": "热泪伤痕",
+    "url": "https://movie.douban.com/subject/1293046/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2151462240.jpg",
+    "id": "1293046",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 600,
+    "title": "漫长的婚约",
+    "url": "https://movie.douban.com/subject/1292234/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803957472.jpg",
+    "id": "1292234",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 497,
+    "title": "怪宴",
+    "url": "https://movie.douban.com/subject/1303545/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p809915309.jpg",
+    "id": "1303545",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 1000,
+    "title": "唐人街探案2",
+    "url": "https://movie.douban.com/subject/26698897/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.jpg",
+    "id": "26698897",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 794,
+    "title": "回归",
+    "url": "https://movie.douban.com/subject/1689787/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167113925.jpg",
+    "id": "1689787",
+    "cover_y": 1134,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 664,
+    "title": "第六感生死缘",
+    "url": "https://movie.douban.com/subject/1299769/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511183278.jpg",
+    "id": "1299769",
+    "cover_y": 986,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 534,
+    "title": "生死狙击",
+    "url": "https://movie.douban.com/subject/1947549/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1722251312.jpg",
+    "id": "1947549",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 511,
+    "title": "本能",
+    "url": "https://movie.douban.com/subject/1291869/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910917679.jpg",
+    "id": "1291869",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 481,
+    "title": "寂静岭",
+    "url": "https://movie.douban.com/subject/1466007/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p554634907.jpg",
+    "id": "1466007",
+    "cover_y": 655,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 800,
+    "title": "名侦探柯南：银翼的魔术师",
+    "url": "https://movie.douban.com/subject/2357711/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1954029893.jpg",
+    "id": "2357711",
+    "cover_y": 1138,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1944,
+    "title": "群鸟",
+    "url": "https://movie.douban.com/subject/1310175/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1493936502.jpg",
+    "id": "1310175",
+    "cover_y": 3000,
+    "is_new": false
+  }
+]

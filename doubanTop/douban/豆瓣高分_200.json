@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.5",
+    "cover_x": 500,
+    "title": "花样年华",
+    "url": "https://movie.douban.com/subject/1291557/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg",
+    "id": "1291557",
+    "cover_y": 746,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1012,
+    "title": "一次别离",
+    "url": "https://movie.douban.com/subject/5964718/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg",
+    "id": "5964718",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1046,
+    "title": "雨人",
+    "url": "https://movie.douban.com/subject/1291870/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p942376281.jpg",
+    "id": "1291870",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 2595,
+    "title": "勇士",
+    "url": "https://movie.douban.com/subject/3217169/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1145536386.jpg",
+    "id": "3217169",
+    "cover_y": 4000,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 640,
+    "title": "芙蓉镇",
+    "url": "https://movie.douban.com/subject/1297880/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184544013.jpg",
+    "id": "1297880",
+    "cover_y": 782,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1400,
+    "title": "魂断蓝桥",
+    "url": "https://movie.douban.com/subject/1293964/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg",
+    "id": "1293964",
+    "cover_y": 2100,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 405,
+    "title": "梦之安魂曲",
+    "url": "https://movie.douban.com/subject/1292270/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p884936202.jpg",
+    "id": "1292270",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 642,
+    "title": "东京教父",
+    "url": "https://movie.douban.com/subject/1310177/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p456703618.jpg",
+    "id": "1310177",
+    "cover_y": 909,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 513,
+    "title": "末路狂花",
+    "url": "https://movie.douban.com/subject/1291992/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p794583044.jpg",
+    "id": "1291992",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 503,
+    "title": "燃情岁月",
+    "url": "https://movie.douban.com/subject/1295865/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg",
+    "id": "1295865",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 2156,
+    "title": "穿越时空的少女",
+    "url": "https://movie.douban.com/subject/1937946/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg",
+    "id": "1937946",
+    "cover_y": 3007,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 770,
+    "title": "无敌破坏王",
+    "url": "https://movie.douban.com/subject/6534248/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg",
+    "id": "6534248",
+    "cover_y": 1100,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 2025,
+    "title": "人工智能",
+    "url": "https://movie.douban.com/subject/1302827/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg",
+    "id": "1302827",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 500,
+    "title": "傲慢与偏见",
+    "url": "https://movie.douban.com/subject/1418200/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452005185.jpg",
+    "id": "1418200",
+    "cover_y": 741,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1071,
+    "title": "天才枪手",
+    "url": "https://movie.douban.com/subject/27024903/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501863104.jpg",
+    "id": "27024903",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 787,
+    "title": "再次出发之纽约遇见你",
+    "url": "https://movie.douban.com/subject/6874403/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg",
+    "id": "6874403",
+    "cover_y": 1153,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 2142,
+    "title": "你看起来好像很好吃",
+    "url": "https://movie.douban.com/subject/4848115/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p709670262.jpg",
+    "id": "4848115",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1700,
+    "title": "恋恋笔记本",
+    "url": "https://movie.douban.com/subject/1309163/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg",
+    "id": "1309163",
+    "cover_y": 2519,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 3375,
+    "title": "疯狂的麦克斯4：狂暴之路",
+    "url": "https://movie.douban.com/subject/3592854/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2236181653.jpg",
+    "id": "3592854",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1417,
+    "title": "比海更深",
+    "url": "https://movie.douban.com/subject/26694988/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2454274023.jpg",
+    "id": "26694988",
+    "cover_y": 2005,
+    "is_new": false
+  }
+]

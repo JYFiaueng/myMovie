@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.4",
+    "cover_x": 1683,
+    "title": "午夜凶铃",
+    "url": "https://movie.douban.com/subject/1307696/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1324520469.jpg",
+    "id": "1307696",
+    "cover_y": 2450,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1050,
+    "title": "扶桑花女孩",
+    "url": "https://movie.douban.com/subject/1788940/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1079104581.jpg",
+    "id": "1788940",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 400,
+    "title": "他人之颜",
+    "url": "https://movie.douban.com/subject/1432779/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211589835.jpg",
+    "id": "1432779",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 550,
+    "title": "即使这样也不是我做的",
+    "url": "https://movie.douban.com/subject/1919906/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p658414422.jpg",
+    "id": "1919906",
+    "cover_y": 781,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1460,
+    "title": "欢乐时光",
+    "url": "https://movie.douban.com/subject/26550176/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2298735591.jpg",
+    "id": "26550176",
+    "cover_y": 2065,
+    "is_new": false
+  },
+  {
+    "rate": "9.3",
+    "cover_x": 400,
+    "title": "世界滞在记：18岁的小栗旬在西伯利亚",
+    "url": "https://movie.douban.com/subject/26258817/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2238186336.jpg",
+    "id": "26258817",
+    "cover_y": 566,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 400,
+    "title": "银河铁道之夜",
+    "url": "https://movie.douban.com/subject/1947288/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2336727942.jpg",
+    "id": "1947288",
+    "cover_y": 551,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1114,
+    "title": "食梦者",
+    "url": "https://movie.douban.com/subject/25880986/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2253403387.jpg",
+    "id": "25880986",
+    "cover_y": 1577,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 330,
+    "title": "赛文奥特曼 我是地球人",
+    "url": "https://movie.douban.com/subject/5041031/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/subject/l/public/s4444833.jpg",
+    "id": "5041031",
+    "cover_y": 475,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 500,
+    "title": "秘密",
+    "url": "https://movie.douban.com/subject/1305084/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1371691835.jpg",
+    "id": "1305084",
+    "cover_y": 710,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 537,
+    "title": "阴阳师",
+    "url": "https://movie.douban.com/subject/1303917/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1001267362.jpg",
+    "id": "1303917",
+    "cover_y": 758,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1013,
+    "title": "精灵宝可梦：就决定是你了",
+    "url": "https://movie.douban.com/subject/26937474/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2509833353.jpg",
+    "id": "26937474",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 500,
+    "title": "裸岛",
+    "url": "https://movie.douban.com/subject/1303710/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1197870810.jpg",
+    "id": "1303710",
+    "cover_y": 707,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 2142,
+    "title": "天使之恋",
+    "url": "https://movie.douban.com/subject/4196129/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211779255.jpg",
+    "id": "4196129",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 668,
+    "title": "咒怨",
+    "url": "https://movie.douban.com/subject/1306808/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410260517.jpg",
+    "id": "1306808",
+    "cover_y": 954,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1200,
+    "title": "第三度嫌疑人",
+    "url": "https://movie.douban.com/subject/26952153/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516825103.jpg",
+    "id": "26952153",
+    "cover_y": 1704,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 550,
+    "title": "杀妻总动员",
+    "url": "https://movie.douban.com/subject/1308841/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p729530435.jpg",
+    "id": "1308841",
+    "cover_y": 777,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 800,
+    "title": "名侦探柯南：水平线上的阴谋",
+    "url": "https://movie.douban.com/subject/2357713/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1954012128.jpg",
+    "id": "2357713",
+    "cover_y": 1129,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 516,
+    "title": "东京奏鸣曲",
+    "url": "https://movie.douban.com/subject/2032143/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p488976777.jpg",
+    "id": "2032143",
+    "cover_y": 730,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 2134,
+    "title": "爱的成人式",
+    "url": "https://movie.douban.com/subject/26140405/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2230009009.jpg",
+    "id": "26140405",
+    "cover_y": 3058,
+    "is_new": false
+  }
+]

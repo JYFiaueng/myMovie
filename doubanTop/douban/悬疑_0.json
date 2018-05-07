@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "9.3",
+    "cover_x": 2229,
+    "title": "盗梦空间",
+    "url": "https://movie.douban.com/subject/3541415/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+    "id": "3541415",
+    "cover_y": 3300,
+    "is_new": false
+  },
+  {
+    "rate": "9.6",
+    "cover_x": 1960,
+    "title": "控方证人",
+    "url": "https://movie.douban.com/subject/1296141/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg",
+    "id": "1296141",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 580,
+    "title": "无间道",
+    "url": "https://movie.douban.com/subject/1307914/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg",
+    "id": "1307914",
+    "cover_y": 879,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 1000,
+    "title": "窃听风暴",
+    "url": "https://movie.douban.com/subject/1900841/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg",
+    "id": "1900841",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 5906,
+    "title": "看不见的客人",
+    "url": "https://movie.douban.com/subject/26580232/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg",
+    "id": "26580232",
+    "cover_y": 8425,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 2700,
+    "title": "致命魔术",
+    "url": "https://movie.douban.com/subject/1780330/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg",
+    "id": "1780330",
+    "cover_y": 4000,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1400,
+    "title": "消失的爱人",
+    "url": "https://movie.douban.com/subject/21318488/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg",
+    "id": "21318488",
+    "cover_y": 2100,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 709,
+    "title": "七宗罪",
+    "url": "https://movie.douban.com/subject/1292223/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457631605.jpg",
+    "id": "1292223",
+    "cover_y": 1002,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1740,
+    "title": "红辣椒",
+    "url": "https://movie.douban.com/subject/1865703/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p672363704.jpg",
+    "id": "1865703",
+    "cover_y": 2451,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1383,
+    "title": "蝴蝶效应",
+    "url": "https://movie.douban.com/subject/1292343/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg",
+    "id": "1292343",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1000,
+    "title": "恐怖直播",
+    "url": "https://movie.douban.com/subject/21360417/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "id": "21360417",
+    "cover_y": 1433,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 2711,
+    "title": "第六感",
+    "url": "https://movie.douban.com/subject/1297630/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg",
+    "id": "1297630",
+    "cover_y": 4000,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 2480,
+    "title": "禁闭岛",
+    "url": "https://movie.douban.com/subject/2334904/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg",
+    "id": "2334904",
+    "cover_y": 3543,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 600,
+    "title": "心迷宫",
+    "url": "https://movie.douban.com/subject/25917973/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2275298525.jpg",
+    "id": "25917973",
+    "cover_y": 851,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1012,
+    "title": "致命ID",
+    "url": "https://movie.douban.com/subject/1297192/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453720880.jpg",
+    "id": "1297192",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1600,
+    "title": "哈利·波特与死亡圣器(下)",
+    "url": "https://movie.douban.com/subject/3011235/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+    "id": "3011235",
+    "cover_y": 2366,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 403,
+    "title": "追随",
+    "url": "https://movie.douban.com/subject/1397546/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1150103377.jpg",
+    "id": "1397546",
+    "cover_y": 606,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 550,
+    "title": "罗生门",
+    "url": "https://movie.douban.com/subject/1291879/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1864872647.jpg",
+    "id": "1291879",
+    "cover_y": 776,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 1000,
+    "title": "惊魂记",
+    "url": "https://movie.douban.com/subject/1293181/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "id": "1293181",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 2100,
+    "title": "谍影重重3",
+    "url": "https://movie.douban.com/subject/1578507/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg",
+    "id": "1578507",
+    "cover_y": 3156,
+    "is_new": false
+  }
+]

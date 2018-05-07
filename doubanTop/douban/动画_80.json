@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.7",
+    "cover_x": 1181,
+    "title": "迷墙",
+    "url": "https://movie.douban.com/subject/1296157/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1555715207.jpg",
+    "id": "1296157",
+    "cover_y": 1688,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 400,
+    "title": "星际牛仔：天国之门",
+    "url": "https://movie.douban.com/subject/1307031/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2174245657.jpg",
+    "id": "1307031",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1080,
+    "title": "大护法",
+    "url": "https://movie.douban.com/subject/26811587/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2490948849.jpg",
+    "id": "26811587",
+    "cover_y": 1760,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 5000,
+    "title": "小王子",
+    "url": "https://movie.douban.com/subject/20645098/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2274029145.jpg",
+    "id": "20645098",
+    "cover_y": 7000,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 5001,
+    "title": "神偷奶爸2",
+    "url": "https://movie.douban.com/subject/4915857/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2164225595.jpg",
+    "id": "4915857",
+    "cover_y": 7000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1068,
+    "title": "恶童",
+    "url": "https://movie.douban.com/subject/1848925/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456777022.jpg",
+    "id": "1848925",
+    "cover_y": 1515,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 800,
+    "title": "名侦探柯南：世纪末的魔术师",
+    "url": "https://movie.douban.com/subject/2279152/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453729256.jpg",
+    "id": "2279152",
+    "cover_y": 1138,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2000,
+    "title": "小羊肖恩",
+    "url": "https://movie.douban.com/subject/24397586/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2249261202.jpg",
+    "id": "24397586",
+    "cover_y": 2893,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1100,
+    "title": "功夫熊猫",
+    "url": "https://movie.douban.com/subject/1783457/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg",
+    "id": "1783457",
+    "cover_y": 1634,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1543,
+    "title": "怪兽大学",
+    "url": "https://movie.douban.com/subject/3789848/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2033476722.jpg",
+    "id": "3789848",
+    "cover_y": 2208,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 496,
+    "title": "蝙蝠侠：黑暗骑士归来(下)",
+    "url": "https://movie.douban.com/subject/11443810/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1771403296.jpg",
+    "id": "11443810",
+    "cover_y": 654,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1280,
+    "title": "美女与野兽",
+    "url": "https://movie.douban.com/subject/1297995/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2238467474.jpg",
+    "id": "1297995",
+    "cover_y": 1892,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1425,
+    "title": "冰川时代3",
+    "url": "https://movie.douban.com/subject/2357162/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2213132432.jpg",
+    "id": "2357162",
+    "cover_y": 2110,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1466,
+    "title": "功夫熊猫2",
+    "url": "https://movie.douban.com/subject/3233635/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p877183898.jpg",
+    "id": "3233635",
+    "cover_y": 2290,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1187,
+    "title": "男孩与世界",
+    "url": "https://movie.douban.com/subject/25741398/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2183181319.jpg",
+    "id": "25741398",
+    "cover_y": 1772,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 640,
+    "title": "火影忍者剧场版：博人传",
+    "url": "https://movie.douban.com/subject/26282448/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2251539632.jpg",
+    "id": "26282448",
+    "cover_y": 895,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 1000,
+    "title": "黑客帝国动画版",
+    "url": "https://movie.douban.com/subject/1292347/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1185327352.jpg",
+    "id": "1292347",
+    "cover_y": 1471,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 560,
+    "title": "麦兜·当当伴我心",
+    "url": "https://movie.douban.com/subject/10772258/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2454027095.jpg",
+    "id": "10772258",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2000,
+    "title": "凯尔经的秘密",
+    "url": "https://movie.douban.com/subject/3212221/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1088520038.jpg",
+    "id": "3212221",
+    "cover_y": 2926,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1148,
+    "title": "魔发奇缘",
+    "url": "https://movie.douban.com/subject/1863766/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p707509468.jpg",
+    "id": "1863766",
+    "cover_y": 1600,
+    "is_new": false
+  }
+]

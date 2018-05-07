@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.4",
+    "cover_x": 1200,
+    "title": "火星救援",
+    "url": "https://movie.douban.com/subject/25864085/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2280097442.jpg",
+    "id": "25864085",
+    "cover_y": 1809,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 1529,
+    "title": "千钧一发",
+    "url": "https://movie.douban.com/subject/1300117/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg",
+    "id": "1300117",
+    "cover_y": 2156,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 812,
+    "title": "彗星来的那一夜",
+    "url": "https://movie.douban.com/subject/25807345/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187896711.jpg",
+    "id": "25807345",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 710,
+    "title": "金刚狼3：殊死一战",
+    "url": "https://movie.douban.com/subject/25765735/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2431980130.jpg",
+    "id": "25765735",
+    "cover_y": 1016,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 960,
+    "title": "银翼杀手2049",
+    "url": "https://movie.douban.com/subject/10512661/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2501864539.jpg",
+    "id": "10512661",
+    "cover_y": 1453,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 432,
+    "title": "这个男人来自地球",
+    "url": "https://movie.douban.com/subject/2300586/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513303986.jpg",
+    "id": "2300586",
+    "cover_y": 620,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 2600,
+    "title": "源代码",
+    "url": "https://movie.douban.com/subject/3075287/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg",
+    "id": "3075287",
+    "cover_y": 3851,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 542,
+    "title": "黑客帝国3：矩阵革命",
+    "url": "https://movie.douban.com/subject/1302467/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg",
+    "id": "1302467",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 885,
+    "title": "2001太空漫游",
+    "url": "https://movie.douban.com/subject/1292226/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792189453.jpg",
+    "id": "1292226",
+    "cover_y": 1240,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 500,
+    "title": "终结者2：审判日",
+    "url": "https://movie.douban.com/subject/1291844/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg",
+    "id": "1291844",
+    "cover_y": 740,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 816,
+    "title": "E.T. 外星人",
+    "url": "https://movie.douban.com/subject/1294638/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg",
+    "id": "1294638",
+    "cover_y": 1134,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 2100,
+    "title": "发条橙",
+    "url": "https://movie.douban.com/subject/1292233/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg",
+    "id": "1292233",
+    "cover_y": 3156,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1732,
+    "title": "月球",
+    "url": "https://movie.douban.com/subject/3073124/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p449399746.jpg",
+    "id": "3073124",
+    "cover_y": 2551,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 2142,
+    "title": "夏日大作战",
+    "url": "https://movie.douban.com/subject/3908423/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1031772057.jpg",
+    "id": "3908423",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1013,
+    "title": "变脸",
+    "url": "https://movie.douban.com/subject/1292659/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173855883.jpg",
+    "id": "1292659",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 800,
+    "title": "福音战士新剧场版：序",
+    "url": "https://movie.douban.com/subject/1968790/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453715063.jpg",
+    "id": "1968790",
+    "cover_y": 1146,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 3375,
+    "title": "她",
+    "url": "https://movie.douban.com/subject/6722879/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166850749.jpg",
+    "id": "6722879",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "9.2",
+    "cover_x": 637,
+    "title": "新世纪福音战士剧场版：死与新生",
+    "url": "https://movie.douban.com/subject/1455442/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p454134242.jpg",
+    "id": "1455442",
+    "cover_y": 902,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1228,
+    "title": "黑客帝国2：重装上阵",
+    "url": "https://movie.douban.com/subject/1304141/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p459054512.jpg",
+    "id": "1304141",
+    "cover_y": 1656,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1418,
+    "title": "银河护卫队2",
+    "url": "https://movie.douban.com/subject/25937854/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455261804.jpg",
+    "id": "25937854",
+    "cover_y": 1985,
+    "is_new": false
+  }
+]

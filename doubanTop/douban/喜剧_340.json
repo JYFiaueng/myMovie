@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.5",
+    "cover_x": 2025,
+    "title": "黑衣人3",
+    "url": "https://movie.douban.com/subject/3642835/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1731774258.jpg",
+    "id": "3642835",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 900,
+    "title": "半斤八两",
+    "url": "https://movie.douban.com/subject/1448758/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1606347997.jpg",
+    "id": "1448758",
+    "cover_y": 1357,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 580,
+    "title": "座头市",
+    "url": "https://movie.douban.com/subject/1300752/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p764956816.jpg",
+    "id": "1300752",
+    "cover_y": 844,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 580,
+    "title": "小鬼当街",
+    "url": "https://movie.douban.com/subject/1299952/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p652974784.jpg",
+    "id": "1299952",
+    "cover_y": 867,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 693,
+    "title": "我家买了动物园",
+    "url": "https://movie.douban.com/subject/3578925/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1286451166.jpg",
+    "id": "3578925",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 580,
+    "title": "我的舅舅",
+    "url": "https://movie.douban.com/subject/1400829/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p685838678.jpg",
+    "id": "1400829",
+    "cover_y": 874,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 517,
+    "title": "转转",
+    "url": "https://movie.douban.com/subject/2263102/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1111394339.jpg",
+    "id": "2263102",
+    "cover_y": 731,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 600,
+    "title": "武状元苏乞儿",
+    "url": "https://movie.douban.com/subject/1297863/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2002731301.jpg",
+    "id": "1297863",
+    "cover_y": 821,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 504,
+    "title": "人生遥控器",
+    "url": "https://movie.douban.com/subject/1474185/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p735368246.jpg",
+    "id": "1474185",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 409,
+    "title": "早安",
+    "url": "https://movie.douban.com/subject/1298063/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2200572533.jpg",
+    "id": "1298063",
+    "cover_y": 583,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 400,
+    "title": "心灵点滴",
+    "url": "https://movie.douban.com/subject/1293981/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p735865077.jpg",
+    "id": "1293981",
+    "cover_y": 539,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 2268,
+    "title": "羞羞的铁拳",
+    "url": "https://movie.douban.com/subject/27038183/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.jpg",
+    "id": "27038183",
+    "cover_y": 3174,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 578,
+    "title": "公主日记",
+    "url": "https://movie.douban.com/subject/1305065/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2169009638.jpg",
+    "id": "1305065",
+    "cover_y": 854,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1600,
+    "title": "海角七号",
+    "url": "https://movie.douban.com/subject/3158990/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p506963235.jpg",
+    "id": "3158990",
+    "cover_y": 2285,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1072,
+    "title": "列宁格勒牛仔征美记",
+    "url": "https://movie.douban.com/subject/1316560/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1652557747.jpg",
+    "id": "1316560",
+    "cover_y": 1536,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 400,
+    "title": "黑炮事件",
+    "url": "https://movie.douban.com/subject/1434269/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187640623.jpg",
+    "id": "1434269",
+    "cover_y": 560,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 3700,
+    "title": "黑店狂想曲",
+    "url": "https://movie.douban.com/subject/1306666/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1969387376.jpg",
+    "id": "1306666",
+    "cover_y": 5250,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2480,
+    "title": "最爽的一天",
+    "url": "https://movie.douban.com/subject/26680247/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2396328652.jpg",
+    "id": "26680247",
+    "cover_y": 3508,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1500,
+    "title": "女间谍",
+    "url": "https://movie.douban.com/subject/25752261/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2254455238.jpg",
+    "id": "25752261",
+    "cover_y": 2212,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 515,
+    "title": "下妻物语",
+    "url": "https://movie.douban.com/subject/1388175/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p832922781.jpg",
+    "id": "1388175",
+    "cover_y": 727,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.2",
+    "cover_x": 1624,
+    "title": "十二公民",
+    "url": "https://movie.douban.com/subject/24875534/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2242220716.jpg",
+    "id": "24875534",
+    "cover_y": 2165,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 2872,
+    "title": "洛城机密",
+    "url": "https://movie.douban.com/subject/1292348/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2268612099.jpg",
+    "id": "1292348",
+    "cover_y": 4380,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1641,
+    "title": "回到未来",
+    "url": "https://movie.douban.com/subject/1300555/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475872903.jpg",
+    "id": "1300555",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1132,
+    "title": "无间道2",
+    "url": "https://movie.douban.com/subject/1307106/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p958008320.jpg",
+    "id": "1307106",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 2142,
+    "title": "奇迹",
+    "url": "https://movie.douban.com/subject/4832288/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1172845476.jpg",
+    "id": "4832288",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 8100,
+    "title": "八恶人",
+    "url": "https://movie.douban.com/subject/25787888/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2287491621.jpg",
+    "id": "25787888",
+    "cover_y": 12000,
+    "is_new": false
+  },
+  {
+    "rate": "8.9",
+    "cover_x": 606,
+    "title": "大都会",
+    "url": "https://movie.douban.com/subject/1298107/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p906689323.jpg",
+    "id": "1298107",
+    "cover_y": 867,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 534,
+    "title": "奇爱博士",
+    "url": "https://movie.douban.com/subject/1322848/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p835946292.jpg",
+    "id": "1322848",
+    "cover_y": 780,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 600,
+    "title": "城南旧事",
+    "url": "https://movie.douban.com/subject/1300894/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178268394.jpg",
+    "id": "1300894",
+    "cover_y": 892,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1000,
+    "title": "杰出公民",
+    "url": "https://movie.douban.com/subject/26844922/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2441383861.jpg",
+    "id": "26844922",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 2113,
+    "title": "大空头",
+    "url": "https://movie.douban.com/subject/26303622/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2283531871.jpg",
+    "id": "26303622",
+    "cover_y": 3298,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1772,
+    "title": "不成问题的问题",
+    "url": "https://movie.douban.com/subject/26657126/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504993947.jpg",
+    "id": "26657126",
+    "cover_y": 2481,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1375,
+    "title": "起跑线",
+    "url": "https://movie.douban.com/subject/26942631/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg",
+    "id": "26942631",
+    "cover_y": 1920,
+    "is_new": false
+  },
+  {
+    "rate": "9.1",
+    "cover_x": 1063,
+    "title": "寻子遇仙记",
+    "url": "https://movie.douban.com/subject/1293270/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2332976198.jpg",
+    "id": "1293270",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 1400,
+    "title": "追击者",
+    "url": "https://movie.douban.com/subject/3006309/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496896804.jpg",
+    "id": "3006309",
+    "cover_y": 2006,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 800,
+    "title": "假如爱有天意",
+    "url": "https://movie.douban.com/subject/1304073/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479746811.jpg",
+    "id": "1304073",
+    "cover_y": 1147,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 2065,
+    "title": "偷拐抢骗",
+    "url": "https://movie.douban.com/subject/1301171/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p616753227.jpg",
+    "id": "1301171",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 580,
+    "title": "不一样的天空",
+    "url": "https://movie.douban.com/subject/1301617/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2175712032.jpg",
+    "id": "1301617",
+    "cover_y": 861,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 550,
+    "title": "蓝色大门",
+    "url": "https://movie.douban.com/subject/1308575/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584822570.jpg",
+    "id": "1308575",
+    "cover_y": 776,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1600,
+    "title": "X战警：逆转未来",
+    "url": "https://movie.douban.com/subject/10485647/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2181156848.jpg",
+    "id": "10485647",
+    "cover_y": 2400,
+    "is_new": false
+  }
+]

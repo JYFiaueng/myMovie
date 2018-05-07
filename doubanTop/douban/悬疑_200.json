@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 567,
+    "title": "亚人2：冲突",
+    "url": "https://movie.douban.com/subject/26675621/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2327065799.jpg",
+    "id": "26675621",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 800,
+    "title": "分裂",
+    "url": "https://movie.douban.com/subject/26600660/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2412064264.jpg",
+    "id": "26600660",
+    "cover_y": 1236,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 400,
+    "title": "啤酒谋杀案",
+    "url": "https://movie.douban.com/subject/1427038/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2219829130.jpg",
+    "id": "1427038",
+    "cover_y": 564,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 484,
+    "title": "寻枪",
+    "url": "https://movie.douban.com/subject/1305224/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184558984.jpg",
+    "id": "1305224",
+    "cover_y": 720,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 540,
+    "title": "猎头游戏",
+    "url": "https://movie.douban.com/subject/5155038/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1132877656.jpg",
+    "id": "5155038",
+    "cover_y": 810,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1050,
+    "title": "魔术师",
+    "url": "https://movie.douban.com/subject/1467044/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453713910.jpg",
+    "id": "1467044",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 5904,
+    "title": "暴雪将至",
+    "url": "https://movie.douban.com/subject/26775933/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505160594.jpg",
+    "id": "26775933",
+    "cover_y": 8268,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1594,
+    "title": "斯托克",
+    "url": "https://movie.douban.com/subject/4896894/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1854982383.jpg",
+    "id": "4896894",
+    "cover_y": 2362,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1683,
+    "title": "午夜凶铃",
+    "url": "https://movie.douban.com/subject/1307696/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1324520469.jpg",
+    "id": "1307696",
+    "cover_y": 2450,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1012,
+    "title": "机械师",
+    "url": "https://movie.douban.com/subject/1309160/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453944400.jpg",
+    "id": "1309160",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 5906,
+    "title": "扫毒",
+    "url": "https://movie.douban.com/subject/10763164/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2157480930.jpg",
+    "id": "10763164",
+    "cover_y": 8268,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 993,
+    "title": "窃听大阴谋",
+    "url": "https://movie.douban.com/subject/1296908/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1648535139.jpg",
+    "id": "1296908",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1600,
+    "title": "金钱世界",
+    "url": "https://movie.douban.com/subject/26995719/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513253129.jpg",
+    "id": "26995719",
+    "cover_y": 2240,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 581,
+    "title": "足迹",
+    "url": "https://movie.douban.com/subject/1294979/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1063487330.jpg",
+    "id": "1294979",
+    "cover_y": 780,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 668,
+    "title": "咒怨",
+    "url": "https://movie.douban.com/subject/1306808/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410260517.jpg",
+    "id": "1306808",
+    "cover_y": 954,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1200,
+    "title": "第三度嫌疑人",
+    "url": "https://movie.douban.com/subject/26952153/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516825103.jpg",
+    "id": "26952153",
+    "cover_y": 1704,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1031,
+    "title": "达·芬奇密码",
+    "url": "https://movie.douban.com/subject/1329950/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453938764.jpg",
+    "id": "1329950",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 550,
+    "title": "杀妻总动员",
+    "url": "https://movie.douban.com/subject/1308841/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p729530435.jpg",
+    "id": "1308841",
+    "cover_y": 777,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 800,
+    "title": "名侦探柯南：水平线上的阴谋",
+    "url": "https://movie.douban.com/subject/2357713/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1954012128.jpg",
+    "id": "2357713",
+    "cover_y": 1129,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1420,
+    "title": "勇者无惧",
+    "url": "https://movie.douban.com/subject/1295802/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187209224.jpg",
+    "id": "1295802",
+    "cover_y": 2134,
+    "is_new": false
+  }
+]

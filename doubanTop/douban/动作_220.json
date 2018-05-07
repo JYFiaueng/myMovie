@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.5",
+    "cover_x": 678,
+    "title": "蜘蛛侠",
+    "url": "https://movie.douban.com/subject/1306612/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457050361.jpg",
+    "id": "1306612",
+    "cover_y": 1002,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1041,
+    "title": "星球大战前传2：克隆人的进攻",
+    "url": "https://movie.douban.com/subject/1297785/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2308393297.jpg",
+    "id": "1297785",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1000,
+    "title": "野战排",
+    "url": "https://movie.douban.com/subject/1293396/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1596877271.jpg",
+    "id": "1293396",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2000,
+    "title": "兰戈",
+    "url": "https://movie.douban.com/subject/2998253/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1000880652.jpg",
+    "id": "2998253",
+    "cover_y": 3124,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 500,
+    "title": "奏鸣曲",
+    "url": "https://movie.douban.com/subject/1298351/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1899389314.jpg",
+    "id": "1298351",
+    "cover_y": 688,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 534,
+    "title": "生死狙击",
+    "url": "https://movie.douban.com/subject/1947549/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1722251312.jpg",
+    "id": "1947549",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 950,
+    "title": "走到尽头",
+    "url": "https://movie.douban.com/subject/25766529/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2183957412.jpg",
+    "id": "25766529",
+    "cover_y": 1361,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 751,
+    "title": "大菩萨岭",
+    "url": "https://movie.douban.com/subject/1440164/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187846310.jpg",
+    "id": "1440164",
+    "cover_y": 1080,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1021,
+    "title": "僵尸先生",
+    "url": "https://movie.douban.com/subject/1295933/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2046376938.jpg",
+    "id": "1295933",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1000,
+    "title": "热血高校",
+    "url": "https://movie.douban.com/subject/2065021/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1011836385.jpg",
+    "id": "2065021",
+    "cover_y": 1414,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1782,
+    "title": "生化危机2：启示录",
+    "url": "https://movie.douban.com/subject/1308752/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1212493067.jpg",
+    "id": "1308752",
+    "cover_y": 2499,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 2953,
+    "title": "魁拔Ⅲ战神崛起",
+    "url": "https://movie.douban.com/subject/24723061/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2202613921.jpg",
+    "id": "24723061",
+    "cover_y": 4134,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 2228,
+    "title": "加勒比海盗4：惊涛怪浪",
+    "url": "https://movie.douban.com/subject/3227410/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p995422651.jpg",
+    "id": "3227410",
+    "cover_y": 3300,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1000,
+    "title": "速度与激情",
+    "url": "https://movie.douban.com/subject/1304899/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1033539605.jpg",
+    "id": "1304899",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 610,
+    "title": "少林足球",
+    "url": "https://movie.douban.com/subject/1297747/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1127695736.jpg",
+    "id": "1297747",
+    "cover_y": 767,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 635,
+    "title": "海贼王剧场版9：冬季绽放的奇迹之樱",
+    "url": "https://movie.douban.com/subject/3017508/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p724327181.jpg",
+    "id": "3017508",
+    "cover_y": 905,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1247,
+    "title": "实尾岛",
+    "url": "https://movie.douban.com/subject/1389982/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2265612013.jpg",
+    "id": "1389982",
+    "cover_y": 1714,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 569,
+    "title": "黄飞鸿之二：男儿当自强",
+    "url": "https://movie.douban.com/subject/1293475/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2208211607.jpg",
+    "id": "1293475",
+    "cover_y": 852,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 950,
+    "title": "A计划",
+    "url": "https://movie.douban.com/subject/1297909/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p945210238.jpg",
+    "id": "1297909",
+    "cover_y": 1429,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2149,
+    "title": "热血高校2",
+    "url": "https://movie.douban.com/subject/3074408/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p936977410.jpg",
+    "id": "3074408",
+    "cover_y": 3015,
+    "is_new": false
+  }
+]

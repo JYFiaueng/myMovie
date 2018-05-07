@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.2",
+    "cover_x": 1024,
+    "title": "战狼2",
+    "url": "https://movie.douban.com/subject/26363254/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494701965.jpg",
+    "id": "26363254",
+    "cover_y": 1548,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1440,
+    "title": "方形",
+    "url": "https://movie.douban.com/subject/26610229/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2495377597.jpg",
+    "id": "26610229",
+    "cover_y": 2161,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 714,
+    "title": "恋爱回旋",
+    "url": "https://movie.douban.com/subject/26972275/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515437624.jpg",
+    "id": "26972275",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1382,
+    "title": "灾难艺术家",
+    "url": "https://movie.douban.com/subject/25944886/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498866082.jpg",
+    "id": "25944886",
+    "cover_y": 2047,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2500,
+    "title": "隧道",
+    "url": "https://movie.douban.com/subject/26410594/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2358109451.jpg",
+    "id": "26410594",
+    "cover_y": 3571,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1200,
+    "title": "怒",
+    "url": "https://movie.douban.com/subject/26279289/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2399174377.jpg",
+    "id": "26279289",
+    "cover_y": 1698,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3375,
+    "title": "招魂2",
+    "url": "https://movie.douban.com/subject/24860563/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2360924286.jpg",
+    "id": "24860563",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2000,
+    "title": "军舰岛",
+    "url": "https://movie.douban.com/subject/26445216/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2462745948.jpg",
+    "id": "26445216",
+    "cover_y": 2850,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 679,
+    "title": "追龙",
+    "url": "https://movie.douban.com/subject/26425068/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499052494.jpg",
+    "id": "26425068",
+    "cover_y": 950,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 9000,
+    "title": "约翰之子",
+    "url": "https://movie.douban.com/subject/26420626/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363277440.jpg",
+    "id": "26420626",
+    "cover_y": 12709,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1593,
+    "title": "幸运是我",
+    "url": "https://movie.douban.com/subject/26351526/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2373839669.jpg",
+    "id": "26351526",
+    "cover_y": 2272,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 3543,
+    "title": "她",
+    "url": "https://movie.douban.com/subject/26022182/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2402012821.jpg",
+    "id": "26022182",
+    "cover_y": 5016,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 4200,
+    "title": "爱宠大机密",
+    "url": "https://movie.douban.com/subject/21817627/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363369616.jpg",
+    "id": "21817627",
+    "cover_y": 6000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2025,
+    "title": "猎凶风河谷",
+    "url": "https://movie.douban.com/subject/26389601/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2463178431.jpg",
+    "id": "26389601",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2693,
+    "title": "捍卫者",
+    "url": "https://movie.douban.com/subject/27063335/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498542692.jpg",
+    "id": "27063335",
+    "cover_y": 3809,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 705,
+    "title": "绣春刀II：修罗战场",
+    "url": "https://movie.douban.com/subject/26270502/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492665487.jpg",
+    "id": "26270502",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 2081,
+    "title": "闪光少女",
+    "url": "https://movie.douban.com/subject/26790961/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2494275431.jpg",
+    "id": "26790961",
+    "cover_y": 2953,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 717,
+    "title": "太空救援",
+    "url": "https://movie.douban.com/subject/27073291/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508922375.jpg",
+    "id": "27073291",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 6116,
+    "title": "比得兔",
+    "url": "https://movie.douban.com/subject/26649604/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515434674.jpg",
+    "id": "26649604",
+    "cover_y": 8974,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1382,
+    "title": "底特律",
+    "url": "https://movie.douban.com/subject/26718836/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455077133.jpg",
+    "id": "26718836",
+    "cover_y": 2047,
+    "is_new": false
+  }
+]

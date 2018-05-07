@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.5",
+    "cover_x": 2000,
+    "title": "好朋友们",
+    "url": "https://movie.douban.com/subject/25780578/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2187159568.jpg",
+    "id": "25780578",
+    "cover_y": 2865,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 787,
+    "title": "萨玛利亚女孩",
+    "url": "https://movie.douban.com/subject/1308854/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p462398519.jpg",
+    "id": "1308854",
+    "cover_y": 1126,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1300,
+    "title": "阿修罗",
+    "url": "https://movie.douban.com/subject/26389331/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2375744186.jpg",
+    "id": "26389331",
+    "cover_y": 1856,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 631,
+    "title": "国家代表",
+    "url": "https://movie.douban.com/subject/3230195/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p617514687.jpg",
+    "id": "3230195",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 678,
+    "title": "邻居",
+    "url": "https://movie.douban.com/subject/10508876/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1600144202.jpg",
+    "id": "10508876",
+    "cover_y": 968,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 750,
+    "title": "色即是空",
+    "url": "https://movie.douban.com/subject/1305279/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p642733653.jpg",
+    "id": "1305279",
+    "cover_y": 1076,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 2000,
+    "title": "我是杀人犯",
+    "url": "https://movie.douban.com/subject/6539385/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1751906355.jpg",
+    "id": "6539385",
+    "cover_y": 2865,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1400,
+    "title": "换季期",
+    "url": "https://movie.douban.com/subject/26870023/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512189868.jpg",
+    "id": "26870023",
+    "cover_y": 2006,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1500,
+    "title": "独自在夜晚的海边",
+    "url": "https://movie.douban.com/subject/26718282/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2443574154.jpg",
+    "id": "26718282",
+    "cover_y": 2140,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1400,
+    "title": "冠军",
+    "url": "https://movie.douban.com/subject/5250349/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1196183112.jpg",
+    "id": "5250349",
+    "cover_y": 1995,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 2000,
+    "title": "检察官外传",
+    "url": "https://movie.douban.com/subject/26088403/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2298188494.jpg",
+    "id": "26088403",
+    "cover_y": 2865,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 748,
+    "title": "春逝",
+    "url": "https://movie.douban.com/subject/1300186/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1369457641.jpg",
+    "id": "1300186",
+    "cover_y": 1074,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 632,
+    "title": "那家伙的声音",
+    "url": "https://movie.douban.com/subject/2067450/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p541027481.jpg",
+    "id": "2067450",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 977,
+    "title": "晚秋",
+    "url": "https://movie.douban.com/subject/4136036/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1486436454.jpg",
+    "id": "4136036",
+    "cover_y": 1438,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 678,
+    "title": "完美对垒",
+    "url": "https://movie.douban.com/subject/6037981/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1284297564.jpg",
+    "id": "6037981",
+    "cover_y": 971,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 476,
+    "title": "诚实国度的爱丽丝",
+    "url": "https://movie.douban.com/subject/26310114/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2232945739.jpg",
+    "id": "26310114",
+    "cover_y": 671,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 4961,
+    "title": "恋爱的温度",
+    "url": "https://movie.douban.com/subject/20279443/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1903366973.jpg",
+    "id": "20279443",
+    "cover_y": 7087,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 900,
+    "title": "时间",
+    "url": "https://movie.douban.com/subject/1763132/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584864044.jpg",
+    "id": "1763132",
+    "cover_y": 1286,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 650,
+    "title": "七天",
+    "url": "https://movie.douban.com/subject/2999500/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p642667992.jpg",
+    "id": "2999500",
+    "cover_y": 926,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 800,
+    "title": "傻瓜",
+    "url": "https://movie.douban.com/subject/3077680/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2097943861.jpg",
+    "id": "3077680",
+    "cover_y": 1140,
+    "is_new": false
+  }
+]

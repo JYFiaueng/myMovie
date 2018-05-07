@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.1",
+    "cover_x": 3000,
+    "title": "老兽",
+    "url": "https://movie.douban.com/subject/26957500/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507370070.jpg",
+    "id": "26957500",
+    "cover_y": 4256,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1500,
+    "title": "独自在夜晚的海边",
+    "url": "https://movie.douban.com/subject/26718282/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2443574154.jpg",
+    "id": "26718282",
+    "cover_y": 2140,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1433,
+    "title": "生在幼子",
+    "url": "https://movie.douban.com/subject/26814623/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493686093.jpg",
+    "id": "26814623",
+    "cover_y": 2025,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 2025,
+    "title": "大创业家",
+    "url": "https://movie.douban.com/subject/26280709/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2394070683.jpg",
+    "id": "26280709",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 2362,
+    "title": "快乐结局",
+    "url": "https://movie.douban.com/subject/26698601/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496674847.jpg",
+    "id": "26698601",
+    "cover_y": 3341,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 3600,
+    "title": "玻璃城堡",
+    "url": "https://movie.douban.com/subject/10743963/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459907602.jpg",
+    "id": "10743963",
+    "cover_y": 5550,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 3000,
+    "title": "亚瑟王：斗兽争霸",
+    "url": "https://movie.douban.com/subject/25864124/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2453433569.jpg",
+    "id": "25864124",
+    "cover_y": 4286,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 788,
+    "title": "声之形",
+    "url": "https://movie.douban.com/subject/26264454/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497136132.jpg",
+    "id": "26264454",
+    "cover_y": 1152,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 2000,
+    "title": "我不是潘金莲",
+    "url": "https://movie.douban.com/subject/26630781/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2378133884.jpg",
+    "id": "26630781",
+    "cover_y": 2904,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 701,
+    "title": "深海浩劫",
+    "url": "https://movie.douban.com/subject/22266320/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2396092735.jpg",
+    "id": "22266320",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 2121,
+    "title": "刀剑神域：序列之争",
+    "url": "https://movie.douban.com/subject/26634179/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498371582.jpg",
+    "id": "26634179",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 1000,
+    "title": "幽冥",
+    "url": "https://movie.douban.com/subject/20514871/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406120224.jpg",
+    "id": "20514871",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 3508,
+    "title": "比利时国王",
+    "url": "https://movie.douban.com/subject/26341049/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2392737277.jpg",
+    "id": "26341049",
+    "cover_y": 4961,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1073,
+    "title": "隐于书后",
+    "url": "https://movie.douban.com/subject/26392856/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2402162306.jpg",
+    "id": "26392856",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 600,
+    "title": "《西贡小姐》二十五周年表演",
+    "url": "https://movie.douban.com/subject/26914297/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2397434604.jpg",
+    "id": "26914297",
+    "cover_y": 889,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 984,
+    "title": "赛车总动员3：极速挑战",
+    "url": "https://movie.douban.com/subject/25849480/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492869476.jpg",
+    "id": "25849480",
+    "cover_y": 1378,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 636,
+    "title": "无巧不成婚",
+    "url": "https://movie.douban.com/subject/26933356/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515609231.jpg",
+    "id": "26933356",
+    "cover_y": 960,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1000,
+    "title": "间谍同盟",
+    "url": "https://movie.douban.com/subject/25978126/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2402069220.jpg",
+    "id": "25978126",
+    "cover_y": 1316,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 4050,
+    "title": "你从未在此",
+    "url": "https://movie.douban.com/subject/26791455/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518558081.jpg",
+    "id": "26791455",
+    "cover_y": 6000,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 640,
+    "title": "22年后的自白：我是杀人犯",
+    "url": "https://movie.douban.com/subject/26835911/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2447246559.jpg",
+    "id": "26835911",
+    "cover_y": 905,
+    "is_new": false
+  }
+]

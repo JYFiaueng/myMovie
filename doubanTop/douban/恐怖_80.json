@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.9",
+    "cover_x": 500,
+    "title": "X圣治",
+    "url": "https://movie.douban.com/subject/1304665/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2247111234.jpg",
+    "id": "1304665",
+    "cover_y": 703,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1354,
+    "title": "恶魔的艺术2：邪降",
+    "url": "https://movie.douban.com/subject/1866462/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1308639435.jpg",
+    "id": "1866462",
+    "cover_y": 1983,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 595,
+    "title": "死神的十字路口",
+    "url": "https://movie.douban.com/subject/3126187/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p768890895.jpg",
+    "id": "3126187",
+    "cover_y": 850,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 480,
+    "title": "鬼宿舍",
+    "url": "https://movie.douban.com/subject/3023155/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1574923121.jpg",
+    "id": "3023155",
+    "cover_y": 643,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1056,
+    "title": "幽灵马车",
+    "url": "https://movie.douban.com/subject/1465471/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2181431524.jpg",
+    "id": "1465471",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1080,
+    "title": "魔女嘉莉",
+    "url": "https://movie.douban.com/subject/1292664/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1996522359.jpg",
+    "id": "1292664",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 508,
+    "title": "僵尸叔叔",
+    "url": "https://movie.douban.com/subject/1302393/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2217843198.jpg",
+    "id": "1302393",
+    "cover_y": 760,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 506,
+    "title": "科学怪人",
+    "url": "https://movie.douban.com/subject/1293778/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1413537601.jpg",
+    "id": "1293778",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1327,
+    "title": "电锯惊魂8：竖锯",
+    "url": "https://movie.douban.com/subject/25788426/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499761124.jpg",
+    "id": "25788426",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1063,
+    "title": "双峰镇：与火同行",
+    "url": "https://movie.douban.com/subject/1303472/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502755325.jpg",
+    "id": "1303472",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1944,
+    "title": "维多利亚一号",
+    "url": "https://movie.douban.com/subject/3642866/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p499375003.jpg",
+    "id": "3642866",
+    "cover_y": 2808,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 956,
+    "title": "丧尸乐园",
+    "url": "https://movie.douban.com/subject/3259993/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p555531279.jpg",
+    "id": "3259993",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 426,
+    "title": "咒怨2",
+    "url": "https://movie.douban.com/subject/1308554/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1002245810.jpg",
+    "id": "1308554",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1702,
+    "title": "神秘拼图",
+    "url": "https://movie.douban.com/subject/1294621/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2222701213.jpg",
+    "id": "1294621",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 812,
+    "title": "驱魔",
+    "url": "https://movie.douban.com/subject/1436846/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p622236579.jpg",
+    "id": "1436846",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 750,
+    "title": "异形3",
+    "url": "https://movie.douban.com/subject/1297929/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1593615176.jpg",
+    "id": "1297929",
+    "cover_y": 1078,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 400,
+    "title": "咒怨 录像带版",
+    "url": "https://movie.douban.com/subject/1461079/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2230107928.jpg",
+    "id": "1461079",
+    "cover_y": 564,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1936,
+    "title": "战栗黑洞",
+    "url": "https://movie.douban.com/subject/1303460/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1078004649.jpg",
+    "id": "1303460",
+    "cover_y": 2942,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 500,
+    "title": "三更",
+    "url": "https://movie.douban.com/subject/1307488/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p934871420.jpg",
+    "id": "1307488",
+    "cover_y": 696,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1181,
+    "title": "亡灵",
+    "url": "https://movie.douban.com/subject/3792868/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1567870772.jpg",
+    "id": "3792868",
+    "cover_y": 1509,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.0",
+    "cover_x": 450,
+    "title": "飞天小女警 剧场版",
+    "url": "https://movie.douban.com/subject/1302661/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2257978711.jpg",
+    "id": "1302661",
+    "cover_y": 667,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1024,
+    "title": "邋遢大王奇遇记",
+    "url": "https://movie.douban.com/subject/11502154/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1644025847.jpg",
+    "id": "11502154",
+    "cover_y": 1463,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 637,
+    "title": "少女革命：思春期默示录",
+    "url": "https://movie.douban.com/subject/1417956/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p454086622.jpg",
+    "id": "1417956",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的海底鬼岩城",
+    "url": "https://movie.douban.com/subject/1458892/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520698634.jpg",
+    "id": "1458892",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 560,
+    "title": "海贼王剧场版8：沙漠公主与海盗们",
+    "url": "https://movie.douban.com/subject/2085498/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2300517400.jpg",
+    "id": "2085498",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 4050,
+    "title": "机器人9号",
+    "url": "https://movie.douban.com/subject/1764796/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p494268647.jpg",
+    "id": "1764796",
+    "cover_y": 5999,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 568,
+    "title": "贤治之春",
+    "url": "https://movie.douban.com/subject/1458035/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503210039.jpg",
+    "id": "1458035",
+    "cover_y": 753,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 740,
+    "title": "闪电狗",
+    "url": "https://movie.douban.com/subject/1793912/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p775039123.jpg",
+    "id": "1793912",
+    "cover_y": 1096,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1195,
+    "title": "BLAME!",
+    "url": "https://movie.douban.com/subject/26670584/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2453080653.jpg",
+    "id": "26670584",
+    "cover_y": 1680,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 560,
+    "title": "娜美篇 航海士的眼泪与牵绊",
+    "url": "https://movie.douban.com/subject/11636325/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2300510382.jpg",
+    "id": "11636325",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 635,
+    "title": "蒸汽男孩",
+    "url": "https://movie.douban.com/subject/1291576/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p454040918.jpg",
+    "id": "1291576",
+    "cover_y": 905,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1280,
+    "title": "红海龟",
+    "url": "https://movie.douban.com/subject/26376558/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2334278462.jpg",
+    "id": "26376558",
+    "cover_y": 1719,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 635,
+    "title": "迷宫物语",
+    "url": "https://movie.douban.com/subject/1457127/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453990433.jpg",
+    "id": "1457127",
+    "cover_y": 909,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的魔界大冒险",
+    "url": "https://movie.douban.com/subject/1458893/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520698818.jpg",
+    "id": "1458893",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 2834,
+    "title": "漫漫北寻路",
+    "url": "https://movie.douban.com/subject/20278795/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2315133763.jpg",
+    "id": "20278795",
+    "cover_y": 3850,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 2142,
+    "title": "名侦探柯南：天空的遇难船",
+    "url": "https://movie.douban.com/subject/5153329/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2259010597.jpg",
+    "id": "5153329",
+    "cover_y": 3025,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 580,
+    "title": "风中奇缘",
+    "url": "https://movie.douban.com/subject/1301342/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1525484625.jpg",
+    "id": "1301342",
+    "cover_y": 858,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 565,
+    "title": "最终幻想15：王者之剑",
+    "url": "https://movie.douban.com/subject/26762709/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2436217927.jpg",
+    "id": "26762709",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 730,
+    "title": "妄想学生会 剧场版",
+    "url": "https://movie.douban.com/subject/26934285/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503166245.jpg",
+    "id": "26934285",
+    "cover_y": 974,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 500,
+    "title": "海贼王剧场版4：死亡尽头的冒险",
+    "url": "https://movie.douban.com/subject/2279997/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2171251372.jpg",
+    "id": "2279997",
+    "cover_y": 710,
+    "is_new": false
+  }
+]

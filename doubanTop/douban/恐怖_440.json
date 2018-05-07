@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.3",
+    "cover_x": 478,
+    "title": "魔童村",
+    "url": "https://movie.douban.com/subject/1294900/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2216383652.jpg",
+    "id": "1294900",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 500,
+    "title": "蛇杀手",
+    "url": "https://movie.douban.com/subject/1770510/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2340400148.jpg",
+    "id": "1770510",
+    "cover_y": 718,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 708,
+    "title": "狗舍",
+    "url": "https://movie.douban.com/subject/3212352/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518985380.jpg",
+    "id": "3212352",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 580,
+    "title": "千年血后",
+    "url": "https://movie.douban.com/subject/1301518/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p716916459.jpg",
+    "id": "1301518",
+    "cover_y": 859,
+    "is_new": false
+  },
+  {
+    "rate": "6.2",
+    "cover_x": 580,
+    "title": "我知道你去年夏天干了什么",
+    "url": "https://movie.douban.com/subject/1292779/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178451760.jpg",
+    "id": "1292779",
+    "cover_y": 868,
+    "is_new": false
+  },
+  {
+    "rate": "6.2",
+    "cover_x": 2024,
+    "title": "爱之女巫",
+    "url": "https://movie.douban.com/subject/26722331/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2412296532.jpg",
+    "id": "26722331",
+    "cover_y": 3008,
+    "is_new": false
+  },
+  {
+    "rate": "6.2",
+    "cover_x": 635,
+    "title": "鬼三惊",
+    "url": "https://movie.douban.com/subject/11610998/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173981092.jpg",
+    "id": "11610998",
+    "cover_y": 897,
+    "is_new": false
+  },
+  {
+    "rate": "6.4",
+    "cover_x": 2005,
+    "title": "鬼影人",
+    "url": "https://movie.douban.com/subject/1302762/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1785569096.jpg",
+    "id": "1302762",
+    "cover_y": 2955,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1000,
+    "title": "美国狼人在伦敦",
+    "url": "https://movie.douban.com/subject/1295077/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1228505073.jpg",
+    "id": "1295077",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 486,
+    "title": "碟仙",
+    "url": "https://movie.douban.com/subject/1302651/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344316141.jpg",
+    "id": "1302651",
+    "cover_y": 700,
+    "is_new": false
+  },
+  {
+    "rate": "6.4",
+    "cover_x": 424,
+    "title": "晚安妈咪",
+    "url": "https://movie.douban.com/subject/25934361/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2231927739.jpg",
+    "id": "25934361",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 580,
+    "title": "魅影天堂",
+    "url": "https://movie.douban.com/subject/1754975/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1398119519.jpg",
+    "id": "1754975",
+    "cover_y": 911,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 858,
+    "title": "惊叫大电影",
+    "url": "https://movie.douban.com/subject/6874567/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1338063205.jpg",
+    "id": "6874567",
+    "cover_y": 1280,
+    "is_new": false
+  },
+  {
+    "rate": "6.0",
+    "cover_x": 1406,
+    "title": "灵蚀",
+    "url": "https://movie.douban.com/subject/27126455/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499576913.jpg",
+    "id": "27126455",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "6.6",
+    "cover_x": 400,
+    "title": "异灵灵异2002",
+    "url": "https://movie.douban.com/subject/1298065/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2236027019.jpg",
+    "id": "1298065",
+    "cover_y": 577,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 673,
+    "title": "黑湖妖谭",
+    "url": "https://movie.douban.com/subject/1771608/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453518763.jpg",
+    "id": "1771608",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 688,
+    "title": "泥人哥连出世记",
+    "url": "https://movie.douban.com/subject/1441474/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2502192660.jpg",
+    "id": "1441474",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "6.1",
+    "cover_x": 2025,
+    "title": "维克多·弗兰肯斯坦",
+    "url": "https://movie.douban.com/subject/10466836/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2263543773.jpg",
+    "id": "10466836",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 900,
+    "title": "古镜幽魂",
+    "url": "https://movie.douban.com/subject/1300773/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1250090353.jpg",
+    "id": "1300773",
+    "cover_y": 1200,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 472,
+    "title": "阁楼里的花",
+    "url": "https://movie.douban.com/subject/1303996/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2246517791.jpg",
+    "id": "1303996",
+    "cover_y": 720,
+    "is_new": false
+  }
+]

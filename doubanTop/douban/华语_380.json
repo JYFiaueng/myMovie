@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.6",
+    "cover_x": 484,
+    "title": "寻枪",
+    "url": "https://movie.douban.com/subject/1305224/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184558984.jpg",
+    "id": "1305224",
+    "cover_y": 720,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 980,
+    "title": "非诚勿扰",
+    "url": "https://movie.douban.com/subject/3313801/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p484918648.jpg",
+    "id": "3313801",
+    "cover_y": 1354,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1000,
+    "title": "和平饭店",
+    "url": "https://movie.douban.com/subject/1293867/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1863974996.jpg",
+    "id": "1293867",
+    "cover_y": 1415,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 400,
+    "title": "破坏之王",
+    "url": "https://movie.douban.com/subject/1299745/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1622122561.jpg",
+    "id": "1299745",
+    "cover_y": 559,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 5904,
+    "title": "暴雪将至",
+    "url": "https://movie.douban.com/subject/26775933/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505160594.jpg",
+    "id": "26775933",
+    "cover_y": 8268,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 890,
+    "title": "美姐",
+    "url": "https://movie.douban.com/subject/10833919/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2073776576.jpg",
+    "id": "10833919",
+    "cover_y": 1250,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 400,
+    "title": "似水流年",
+    "url": "https://movie.douban.com/subject/1294139/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2377219783.jpg",
+    "id": "1294139",
+    "cover_y": 533,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1071,
+    "title": "春娇救志明",
+    "url": "https://movie.douban.com/subject/26639958/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2456056900.jpg",
+    "id": "26639958",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 714,
+    "title": "心花路放",
+    "url": "https://movie.douban.com/subject/25717233/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2199268153.jpg",
+    "id": "25717233",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 600,
+    "title": "夜奔",
+    "url": "https://movie.douban.com/subject/1306465/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1264103918.jpg",
+    "id": "1306465",
+    "cover_y": 857,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 600,
+    "title": "没完没了",
+    "url": "https://movie.douban.com/subject/1296253/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2104173609.jpg",
+    "id": "1296253",
+    "cover_y": 908,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1915,
+    "title": "给爸爸的信",
+    "url": "https://movie.douban.com/subject/1299250/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1594424918.jpg",
+    "id": "1299250",
+    "cover_y": 2525,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 448,
+    "title": "人·鬼·情",
+    "url": "https://movie.douban.com/subject/1307320/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2337272317.jpg",
+    "id": "1307320",
+    "cover_y": 672,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 5906,
+    "title": "扫毒",
+    "url": "https://movie.douban.com/subject/10763164/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2157480930.jpg",
+    "id": "10763164",
+    "cover_y": 8268,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 441,
+    "title": "稻草人",
+    "url": "https://movie.douban.com/subject/1308607/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2461104465.jpg",
+    "id": "1308607",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 400,
+    "title": "宋家皇朝",
+    "url": "https://movie.douban.com/subject/1302455/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2417829396.jpg",
+    "id": "1302455",
+    "cover_y": 573,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 513,
+    "title": "虎度门",
+    "url": "https://movie.douban.com/subject/1316525/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2190023207.jpg",
+    "id": "1316525",
+    "cover_y": 666,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 708,
+    "title": "五亿探长雷洛传1：雷老虎",
+    "url": "https://movie.douban.com/subject/1297248/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1273873245.jpg",
+    "id": "1297248",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 660,
+    "title": "逃学威龙2",
+    "url": "https://movie.douban.com/subject/1296201/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1177313584.jpg",
+    "id": "1296201",
+    "cover_y": 967,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 468,
+    "title": "方世玉续集",
+    "url": "https://movie.douban.com/subject/1295485/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2357210098.jpg",
+    "id": "1295485",
+    "cover_y": 800,
+    "is_new": false
+  }
+]

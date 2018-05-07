@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "6.3",
+    "cover_x": 8886,
+    "title": "昼顔",
+    "url": "https://movie.douban.com/subject/26877106/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2520207236.jpg",
+    "id": "26877106",
+    "cover_y": 12430,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 960,
+    "title": "再见十八班",
+    "url": "https://movie.douban.com/subject/30159456/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515316360.jpg",
+    "id": "30159456",
+    "cover_y": 1362,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 1382,
+    "title": "西尔玛",
+    "url": "https://movie.douban.com/subject/26755583/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2498381107.jpg",
+    "id": "26755583",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "6.4",
+    "cover_x": 1382,
+    "title": "安娜贝尔2：诞生",
+    "url": "https://movie.douban.com/subject/26644205/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2465524814.jpg",
+    "id": "26644205",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 540,
+    "title": "我是好人",
+    "url": "https://movie.douban.com/subject/27666671/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510711938.jpg",
+    "id": "27666671",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 1000,
+    "title": "龙之战",
+    "url": "https://movie.douban.com/subject/26873799/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2495031914.jpg",
+    "id": "26873799",
+    "cover_y": 1419,
+    "is_new": false
+  },
+  {
+    "rate": "6.1",
+    "cover_x": 3440,
+    "title": "全球风暴",
+    "url": "https://movie.douban.com/subject/22266012/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501769525.jpg",
+    "id": "22266012",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "6.6",
+    "cover_x": 1382,
+    "title": "困斗99号囚室",
+    "url": "https://movie.douban.com/subject/26844764/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496993137.jpg",
+    "id": "26844764",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 2000,
+    "title": "钱袋",
+    "url": "https://movie.douban.com/subject/26767358/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517679350.jpg",
+    "id": "26767358",
+    "cover_y": 2850,
+    "is_new": true
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 4050,
+    "title": "亨利之书",
+    "url": "https://movie.douban.com/subject/26357441/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2466169133.jpg",
+    "id": "26357441",
+    "cover_y": 6000,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1418,
+    "title": "帕德玛瓦蒂王后",
+    "url": "https://movie.douban.com/subject/27156513/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2511659157.jpg",
+    "id": "27156513",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 533,
+    "title": "蝙蝠侠：煤气灯下的哥谭",
+    "url": "https://movie.douban.com/subject/27090813/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508472121.jpg",
+    "id": "27090813",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 1012,
+    "title": "坚强",
+    "url": "https://movie.douban.com/subject/26575145/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493377993.jpg",
+    "id": "26575145",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 1434,
+    "title": "红衣小女孩2",
+    "url": "https://movie.douban.com/subject/26928198/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2447040173.jpg",
+    "id": "26928198",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 2005,
+    "title": "一级机密",
+    "url": "https://movie.douban.com/subject/26875259/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510289400.jpg",
+    "id": "26875259",
+    "cover_y": 2835,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 1532,
+    "title": "丛林",
+    "url": "https://movie.douban.com/subject/26726261/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498434192.jpg",
+    "id": "26726261",
+    "cover_y": 2161,
+    "is_new": false
+  },
+  {
+    "rate": "6.6",
+    "cover_x": 2835,
+    "title": "刺杀盖世太保",
+    "url": "https://movie.douban.com/subject/26383923/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505437151.jpg",
+    "id": "26383923",
+    "cover_y": 3850,
+    "is_new": false
+  },
+  {
+    "rate": "6.7",
+    "cover_x": 960,
+    "title": "敬畏",
+    "url": "https://movie.douban.com/subject/26785583/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2458792239.jpg",
+    "id": "26785583",
+    "cover_y": 1304,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1000,
+    "title": "小马宝莉大电影",
+    "url": "https://movie.douban.com/subject/26176481/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512418397.jpg",
+    "id": "26176481",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "5.7",
+    "cover_x": 2000,
+    "title": "环太平洋：雷霆再起",
+    "url": "https://movie.douban.com/subject/20435622/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.jpg",
+    "id": "20435622",
+    "cover_y": 2839,
+    "is_new": false
+  }
+]

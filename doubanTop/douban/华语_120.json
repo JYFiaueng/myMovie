@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.5",
+    "cover_x": 426,
+    "title": "麻将",
+    "url": "https://movie.douban.com/subject/1297418/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2327303475.jpg",
+    "id": "1297418",
+    "cover_y": 600,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 674,
+    "title": "独自等待",
+    "url": "https://movie.douban.com/subject/1308741/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p486667524.jpg",
+    "id": "1308741",
+    "cover_y": 950,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1142,
+    "title": "一念无明",
+    "url": "https://movie.douban.com/subject/26704590/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2452970761.jpg",
+    "id": "26704590",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 622,
+    "title": "孙子从美国来",
+    "url": "https://movie.douban.com/subject/10467774/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2157878128.jpg",
+    "id": "10467774",
+    "cover_y": 923,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 400,
+    "title": "蓝宇",
+    "url": "https://movie.douban.com/subject/1308076/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475949706.jpg",
+    "id": "1308076",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 403,
+    "title": "金枝玉叶",
+    "url": "https://movie.douban.com/subject/1303376/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p939917921.jpg",
+    "id": "1303376",
+    "cover_y": 575,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 644,
+    "title": "七月与安生",
+    "url": "https://movie.douban.com/subject/25827935/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2378140502.jpg",
+    "id": "25827935",
+    "cover_y": 900,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 5019,
+    "title": "解救吾先生",
+    "url": "https://movie.douban.com/subject/25798448/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2267511583.jpg",
+    "id": "25798448",
+    "cover_y": 7000,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 450,
+    "title": "变脸",
+    "url": "https://movie.douban.com/subject/1293237/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p753434191.jpg",
+    "id": "1293237",
+    "cover_y": 638,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 800,
+    "title": "太阳照常升起",
+    "url": "https://movie.douban.com/subject/1766086/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453675494.jpg",
+    "id": "1766086",
+    "cover_y": 1126,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1457,
+    "title": "逆光飞翔",
+    "url": "https://movie.douban.com/subject/10733376/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1598751480.jpg",
+    "id": "10733376",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 729,
+    "title": "天狗",
+    "url": "https://movie.douban.com/subject/1947270/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1379497824.jpg",
+    "id": "1947270",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 568,
+    "title": "精武英雄",
+    "url": "https://movie.douban.com/subject/1292895/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2431081842.jpg",
+    "id": "1292895",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1000,
+    "title": "麦兜我和我妈妈",
+    "url": "https://movie.douban.com/subject/25884416/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2200039289.jpg",
+    "id": "25884416",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 400,
+    "title": "喋血双雄",
+    "url": "https://movie.douban.com/subject/1296519/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2211804326.jpg",
+    "id": "1296519",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1616,
+    "title": "山河故人",
+    "url": "https://movie.douban.com/subject/25890005/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2274320140.jpg",
+    "id": "25890005",
+    "cover_y": 2381,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 450,
+    "title": "洗澡",
+    "url": "https://movie.douban.com/subject/1303485/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1246439749.jpg",
+    "id": "1303485",
+    "cover_y": 643,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 400,
+    "title": "三毛从军记",
+    "url": "https://movie.douban.com/subject/2132220/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2252295029.jpg",
+    "id": "2132220",
+    "cover_y": 551,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 8438,
+    "title": "罗曼蒂克消亡史",
+    "url": "https://movie.douban.com/subject/24751763/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2404553168.jpg",
+    "id": "24751763",
+    "cover_y": 11769,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 3189,
+    "title": "立春",
+    "url": "https://movie.douban.com/subject/3036997/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p582511565.jpg",
+    "id": "3036997",
+    "cover_y": 4404,
+    "is_new": false
+  }
+]

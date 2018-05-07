@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.9",
+    "cover_x": 766,
+    "title": "少林寺",
+    "url": "https://movie.douban.com/subject/1301198/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457784081.jpg",
+    "id": "1301198",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 800,
+    "title": "蜘蛛巢城",
+    "url": "https://movie.douban.com/subject/1294827/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p647422117.jpg",
+    "id": "1294827",
+    "cover_y": 1130,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 705,
+    "title": "绣春刀II：修罗战场",
+    "url": "https://movie.douban.com/subject/26270502/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2492665487.jpg",
+    "id": "26270502",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 448,
+    "title": "倩女幽魂2：人间道",
+    "url": "https://movie.douban.com/subject/1296629/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2270085044.jpg",
+    "id": "1296629",
+    "cover_y": 672,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 1280,
+    "title": "少数派报告",
+    "url": "https://movie.douban.com/subject/1297689/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1431356464.jpg",
+    "id": "1297689",
+    "cover_y": 1896,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 400,
+    "title": "双旗镇刀客",
+    "url": "https://movie.douban.com/subject/1307812/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2503877850.jpg",
+    "id": "1307812",
+    "cover_y": 530,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 717,
+    "title": "太空救援",
+    "url": "https://movie.douban.com/subject/27073291/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508922375.jpg",
+    "id": "27073291",
+    "cover_y": 1024,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 527,
+    "title": "逃学威龙",
+    "url": "https://movie.douban.com/subject/1302090/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2002724530.jpg",
+    "id": "1302090",
+    "cover_y": 720,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 549,
+    "title": "古惑仔之人在江湖",
+    "url": "https://movie.douban.com/subject/1433736/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1353779844.jpg",
+    "id": "1433736",
+    "cover_y": 750,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 500,
+    "title": "天若有情",
+    "url": "https://movie.douban.com/subject/1297710/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2212204532.jpg",
+    "id": "1297710",
+    "cover_y": 649,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1010,
+    "title": "夺宝奇兵",
+    "url": "https://movie.douban.com/subject/1296717/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1289676488.jpg",
+    "id": "1296717",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1200,
+    "title": "猩球崛起2：黎明之战",
+    "url": "https://movie.douban.com/subject/7046723/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2196211285.jpg",
+    "id": "7046723",
+    "cover_y": 1714,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 2054,
+    "title": "叶问",
+    "url": "https://movie.douban.com/subject/3041806/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p458263441.jpg",
+    "id": "3041806",
+    "cover_y": 2846,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 590,
+    "title": "卑劣的街头",
+    "url": "https://movie.douban.com/subject/1827713/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p750440773.jpg",
+    "id": "1827713",
+    "cover_y": 827,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 477,
+    "title": "X战警2",
+    "url": "https://movie.douban.com/subject/1305724/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726784568.jpg",
+    "id": "1305724",
+    "cover_y": 691,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 511,
+    "title": "处刑人",
+    "url": "https://movie.douban.com/subject/1469049/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p921876170.jpg",
+    "id": "1469049",
+    "cover_y": 770,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 2858,
+    "title": "加勒比海盗5：死无对证",
+    "url": "https://movie.douban.com/subject/6311303/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510145629.jpg",
+    "id": "6311303",
+    "cover_y": 4020,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 747,
+    "title": "鹿鼎记2：神龙教",
+    "url": "https://movie.douban.com/subject/1306951/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1655227895.jpg",
+    "id": "1306951",
+    "cover_y": 1056,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 3543,
+    "title": "金蝉脱壳",
+    "url": "https://movie.douban.com/subject/3025447/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2155236151.jpg",
+    "id": "3025447",
+    "cover_y": 4961,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1108,
+    "title": "杀戮都市：O",
+    "url": "https://movie.douban.com/subject/26666177/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2388010000.jpg",
+    "id": "26666177",
+    "cover_y": 1547,
+    "is_new": false
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.8",
+    "cover_x": 1382,
+    "title": "神奇队长",
+    "url": "https://movie.douban.com/subject/25834735/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2341555072.jpg",
+    "id": "25834735",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 639,
+    "title": "游戏规则",
+    "url": "https://movie.douban.com/subject/1401261/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p863429327.jpg",
+    "id": "1401261",
+    "cover_y": 903,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 610,
+    "title": "少林足球",
+    "url": "https://movie.douban.com/subject/1297747/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1127695736.jpg",
+    "id": "1297747",
+    "cover_y": 767,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 500,
+    "title": "阿拉丁",
+    "url": "https://movie.douban.com/subject/1299513/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1833285442.jpg",
+    "id": "1299513",
+    "cover_y": 710,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1000,
+    "title": "印式英语",
+    "url": "https://movie.douban.com/subject/10876425/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1829342305.jpg",
+    "id": "10876425",
+    "cover_y": 1448,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 736,
+    "title": "舞台春秋",
+    "url": "https://movie.douban.com/subject/1296659/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2299155914.jpg",
+    "id": "1296659",
+    "cover_y": 1104,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 950,
+    "title": "A计划",
+    "url": "https://movie.douban.com/subject/1297909/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p945210238.jpg",
+    "id": "1297909",
+    "cover_y": 1429,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 666,
+    "title": "出水芙蓉",
+    "url": "https://movie.douban.com/subject/1305158/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497889942.jpg",
+    "id": "1305158",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 518,
+    "title": "尽善尽美",
+    "url": "https://movie.douban.com/subject/1293917/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p643387266.jpg",
+    "id": "1293917",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 509,
+    "title": "子弹横飞百老汇",
+    "url": "https://movie.douban.com/subject/1295452/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p946722193.jpg",
+    "id": "1295452",
+    "cover_y": 707,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 674,
+    "title": "三个老枪手",
+    "url": "https://movie.douban.com/subject/26266085/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493595992.jpg",
+    "id": "26266085",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 1058,
+    "title": "龙虾",
+    "url": "https://movie.douban.com/subject/20514947/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2304460273.jpg",
+    "id": "20514947",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 500,
+    "title": "欢迎来北方",
+    "url": "https://movie.douban.com/subject/2988103/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p687871699.jpg",
+    "id": "2988103",
+    "cover_y": 700,
+    "is_new": false
+  },
+  {
+    "rate": "8.6",
+    "cover_x": 1012,
+    "title": "霹雳五号",
+    "url": "https://movie.douban.com/subject/1294366/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1402862965.jpg",
+    "id": "1294366",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 566,
+    "title": "投靠女与出走男",
+    "url": "https://movie.douban.com/subject/25969201/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2217281855.jpg",
+    "id": "25969201",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 408,
+    "title": "看上去很美",
+    "url": "https://movie.douban.com/subject/1469441/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p468540198.jpg",
+    "id": "1469441",
+    "cover_y": 580,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 408,
+    "title": "方世玉",
+    "url": "https://movie.douban.com/subject/1297763/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2186152223.jpg",
+    "id": "1297763",
+    "cover_y": 590,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1014,
+    "title": "超级大坏蛋",
+    "url": "https://movie.douban.com/subject/2303163/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p639914227.jpg",
+    "id": "2303163",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2549,
+    "title": "歌舞青春",
+    "url": "https://movie.douban.com/subject/1765009/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1358940267.jpg",
+    "id": "1765009",
+    "cover_y": 3300,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 508,
+    "title": "逃狱三王",
+    "url": "https://movie.douban.com/subject/1292264/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p794606009.jpg",
+    "id": "1292264",
+    "cover_y": 755,
+    "is_new": false
+  }
+]

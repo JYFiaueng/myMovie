@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.3",
+    "cover_x": 1742,
+    "title": "回到未来3",
+    "url": "https://movie.douban.com/subject/1296666/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p475893249.jpg",
+    "id": "1296666",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 690,
+    "title": "地心引力",
+    "url": "https://movie.douban.com/subject/3793783/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159078612.jpg",
+    "id": "3793783",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 890,
+    "title": "我，机器人",
+    "url": "https://movie.douban.com/subject/1308843/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p691069814.jpg",
+    "id": "1308843",
+    "cover_y": 1216,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 2500,
+    "title": "X战警：天启",
+    "url": "https://movie.douban.com/subject/25786060/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2352321614.jpg",
+    "id": "25786060",
+    "cover_y": 3525,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1408,
+    "title": "星球大战前传3：西斯的复仇",
+    "url": "https://movie.douban.com/subject/1309078/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p533908031.jpg",
+    "id": "1309078",
+    "cover_y": 2100,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1000,
+    "title": "异形",
+    "url": "https://movie.douban.com/subject/1300868/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1756402567.jpg",
+    "id": "1300868",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 517,
+    "title": "黑衣人",
+    "url": "https://movie.douban.com/subject/1301445/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453512941.jpg",
+    "id": "1301445",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1024,
+    "title": "银河系漫游指南",
+    "url": "https://movie.douban.com/subject/1292267/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1985335323.jpg",
+    "id": "1292267",
+    "cover_y": 1520,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 525,
+    "title": "独立日",
+    "url": "https://movie.douban.com/subject/1293013/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453518655.jpg",
+    "id": "1293013",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 407,
+    "title": "钢铁巨人",
+    "url": "https://movie.douban.com/subject/1293863/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453506001.jpg",
+    "id": "1293863",
+    "cover_y": 575,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1020,
+    "title": "迷雾",
+    "url": "https://movie.douban.com/subject/1945330/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1970406441.jpg",
+    "id": "1945330",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1715,
+    "title": "死侍",
+    "url": "https://movie.douban.com/subject/3718279/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2309264172.jpg",
+    "id": "3718279",
+    "cover_y": 2500,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 2023,
+    "title": "终结者",
+    "url": "https://movie.douban.com/subject/1300656/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511430453.jpg",
+    "id": "1300656",
+    "cover_y": 2991,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 503,
+    "title": "心慌方",
+    "url": "https://movie.douban.com/subject/1305903/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p824373340.jpg",
+    "id": "1305903",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1200,
+    "title": "星际迷航2：暗黑无界",
+    "url": "https://movie.douban.com/subject/3642843/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1907669506.jpg",
+    "id": "3642843",
+    "cover_y": 1778,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1230,
+    "title": "星球大战前传1：幽灵的威胁",
+    "url": "https://movie.douban.com/subject/1294362/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2308392633.jpg",
+    "id": "1294362",
+    "cover_y": 1845,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 936,
+    "title": "飞向太空",
+    "url": "https://movie.douban.com/subject/1300977/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p573091524.jpg",
+    "id": "1300977",
+    "cover_y": 1355,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1400,
+    "title": "侏罗纪世界",
+    "url": "https://movie.douban.com/subject/10440138/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2246217861.jpg",
+    "id": "10440138",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 2026,
+    "title": "生化危机",
+    "url": "https://movie.douban.com/subject/1306809/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174120073.jpg",
+    "id": "1306809",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 4483,
+    "title": "环太平洋",
+    "url": "https://movie.douban.com/subject/5323968/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2043625972.jpg",
+    "id": "5323968",
+    "cover_y": 6833,
+    "is_new": false
+  }
+]

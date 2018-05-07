@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.0",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的宇宙漂流记",
+    "url": "https://movie.douban.com/subject/1458907/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520702618.jpg",
+    "id": "1458907",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 527,
+    "title": "定时拍摄",
+    "url": "https://movie.douban.com/subject/24857986/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2188170587.jpg",
+    "id": "24857986",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.5",
+    "cover_x": 466,
+    "title": "逃离猩球",
+    "url": "https://movie.douban.com/subject/1915381/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1872656485.jpg",
+    "id": "1915381",
+    "cover_y": 700,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1000,
+    "title": "星际之门",
+    "url": "https://movie.douban.com/subject/1302209/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1495387023.jpg",
+    "id": "1302209",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 640,
+    "title": "希德尼娅的骑士 剧场版",
+    "url": "https://movie.douban.com/subject/26265989/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2215213024.jpg",
+    "id": "26265989",
+    "cover_y": 905,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 600,
+    "title": "蝙蝠侠超人大电影-最佳搭档",
+    "url": "https://movie.douban.com/subject/4089685/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1819568309.jpg",
+    "id": "4089685",
+    "cover_y": 844,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 983,
+    "title": "异形奇花",
+    "url": "https://movie.douban.com/subject/1294749/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p785359939.jpg",
+    "id": "1294749",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 509,
+    "title": "邮差",
+    "url": "https://movie.douban.com/subject/1298753/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p925479194.jpg",
+    "id": "1298753",
+    "cover_y": 755,
+    "is_new": false
+  },
+  {
+    "rate": "6.9",
+    "cover_x": 1413,
+    "title": "克隆丈夫",
+    "url": "https://movie.douban.com/subject/3094696/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1130649843.jpg",
+    "id": "3094696",
+    "cover_y": 2000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 565,
+    "title": "飞出个未来大电影4：绿色狂想",
+    "url": "https://movie.douban.com/subject/2150083/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2183437879.jpg",
+    "id": "2150083",
+    "cover_y": 749,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 1200,
+    "title": "阿童木",
+    "url": "https://movie.douban.com/subject/1917074/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1822907716.jpg",
+    "id": "1917074",
+    "cover_y": 1665,
+    "is_new": false
+  },
+  {
+    "rate": "6.5",
+    "cover_x": 1013,
+    "title": "创：战纪",
+    "url": "https://movie.douban.com/subject/2997134/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p684659296.jpg",
+    "id": "2997134",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "6.4",
+    "cover_x": 4723,
+    "title": "忍者神龟：变种时代",
+    "url": "https://movie.douban.com/subject/3217149/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2204991581.jpg",
+    "id": "3217149",
+    "cover_y": 7000,
+    "is_new": false
+  },
+  {
+    "rate": "6.2",
+    "cover_x": 5953,
+    "title": "金刚狼2",
+    "url": "https://movie.douban.com/subject/3718424/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2151837713.jpg",
+    "id": "3718424",
+    "cover_y": 8472,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 610,
+    "title": "老虎和兔子：崛起",
+    "url": "https://movie.douban.com/subject/19961143/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2165442149.jpg",
+    "id": "19961143",
+    "cover_y": 860,
+    "is_new": false
+  },
+  {
+    "rate": "6.1",
+    "cover_x": 3440,
+    "title": "全球风暴",
+    "url": "https://movie.douban.com/subject/22266012/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2501769525.jpg",
+    "id": "22266012",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 715,
+    "title": "第六日",
+    "url": "https://movie.douban.com/subject/1294893/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1437934412.jpg",
+    "id": "1294893",
+    "cover_y": 1080,
+    "is_new": false
+  },
+  {
+    "rate": "6.8",
+    "cover_x": 990,
+    "title": "决战猩球",
+    "url": "https://movie.douban.com/subject/1304338/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1593992535.jpg",
+    "id": "1304338",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 800,
+    "title": "天外来客",
+    "url": "https://movie.douban.com/subject/1307249/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2204553758.jpg",
+    "id": "1307249",
+    "cover_y": 1099,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的南海大冒险",
+    "url": "https://movie.douban.com/subject/1458906/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520702517.jpg",
+    "id": "1458906",
+    "cover_y": 1600,
+    "is_new": false
+  }
+]

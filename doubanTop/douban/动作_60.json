@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "8.1",
+    "cover_x": 1000,
+    "title": "铁雨",
+    "url": "https://movie.douban.com/subject/26863778/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505050710.jpg",
+    "id": "26863778",
+    "cover_y": 1429,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1500,
+    "title": "霍比特人1：意外之旅",
+    "url": "https://movie.douban.com/subject/1966182/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1716297390.jpg",
+    "id": "1966182",
+    "cover_y": 2220,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 767,
+    "title": "用心棒",
+    "url": "https://movie.douban.com/subject/1292515/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2163659004.jpg",
+    "id": "1292515",
+    "cover_y": 1100,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 3420,
+    "title": "明日边缘",
+    "url": "https://movie.douban.com/subject/4746257/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2185073849.jpg",
+    "id": "4746257",
+    "cover_y": 5000,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1013,
+    "title": "加勒比海盗2：聚魂棺",
+    "url": "https://movie.douban.com/subject/1315574/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1076822803.jpg",
+    "id": "1315574",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 600,
+    "title": "国产凌凌漆",
+    "url": "https://movie.douban.com/subject/1307739/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1411605098.jpg",
+    "id": "1307739",
+    "cover_y": 888,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 2020,
+    "title": "飓风营救",
+    "url": "https://movie.douban.com/subject/2124586/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1595764830.jpg",
+    "id": "2124586",
+    "cover_y": 2978,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 970,
+    "title": "笑傲江湖2：东方不败",
+    "url": "https://movie.douban.com/subject/1294417/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p838966341.jpg",
+    "id": "1294417",
+    "cover_y": 1442,
+    "is_new": false
+  },
+  {
+    "rate": "9.0",
+    "cover_x": 618,
+    "title": "将军号",
+    "url": "https://movie.douban.com/subject/1292778/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248676081.jpg",
+    "id": "1292778",
+    "cover_y": 927,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1000,
+    "title": "师父",
+    "url": "https://movie.douban.com/subject/25919910/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2293405567.jpg",
+    "id": "25919910",
+    "cover_y": 1400,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 518,
+    "title": "精英部队2：大敌当前",
+    "url": "https://movie.douban.com/subject/4304402/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p858211193.jpg",
+    "id": "4304402",
+    "cover_y": 768,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 800,
+    "title": "名侦探柯南：通向天国的倒计时",
+    "url": "https://movie.douban.com/subject/2357703/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453730108.jpg",
+    "id": "2357703",
+    "cover_y": 1136,
+    "is_new": false
+  },
+  {
+    "rate": "8.8",
+    "cover_x": 400,
+    "title": "星际牛仔：天国之门",
+    "url": "https://movie.douban.com/subject/1307031/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2174245657.jpg",
+    "id": "1307031",
+    "cover_y": 563,
+    "is_new": false
+  },
+  {
+    "rate": "8.5",
+    "cover_x": 1012,
+    "title": "启示",
+    "url": "https://movie.douban.com/subject/1450031/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374588202.jpg",
+    "id": "1450031",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.4",
+    "cover_x": 941,
+    "title": "王牌对王牌",
+    "url": "https://movie.douban.com/subject/1293434/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1971419890.jpg",
+    "id": "1293434",
+    "cover_y": 1279,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1359,
+    "title": "后天",
+    "url": "https://movie.douban.com/subject/1308779/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209602029.jpg",
+    "id": "1308779",
+    "cover_y": 1986,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 473,
+    "title": "星球大战",
+    "url": "https://movie.douban.com/subject/1293838/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p732941361.jpg",
+    "id": "1293838",
+    "cover_y": 667,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1013,
+    "title": "猩球崛起",
+    "url": "https://movie.douban.com/subject/3274505/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1281402537.jpg",
+    "id": "3274505",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 1985,
+    "title": "美国队长2",
+    "url": "https://movie.douban.com/subject/6390823/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174824694.jpg",
+    "id": "6390823",
+    "cover_y": 2835,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 534,
+    "title": "钢铁侠",
+    "url": "https://movie.douban.com/subject/1432146/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p725871004.jpg",
+    "id": "1432146",
+    "cover_y": 755,
+    "is_new": false
+  }
+]

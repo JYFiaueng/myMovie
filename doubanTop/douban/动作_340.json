@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.2",
+    "cover_x": 2205,
+    "title": "金刚狼",
+    "url": "https://movie.douban.com/subject/1792928/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2063167557.jpg",
+    "id": "1792928",
+    "cover_y": 3038,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1328,
+    "title": "疾速特攻",
+    "url": "https://movie.douban.com/subject/26333560/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406752213.jpg",
+    "id": "26333560",
+    "cover_y": 2048,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 2025,
+    "title": "超凡蜘蛛侠",
+    "url": "https://movie.douban.com/subject/2129132/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1527315971.jpg",
+    "id": "2129132",
+    "cover_y": 3000,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 640,
+    "title": "浪客剑心：京都大火篇",
+    "url": "https://movie.douban.com/subject/24845115/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184443605.jpg",
+    "id": "24845115",
+    "cover_y": 906,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 403,
+    "title": "辣手神探",
+    "url": "https://movie.douban.com/subject/1293147/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479402224.jpg",
+    "id": "1293147",
+    "cover_y": 550,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1000,
+    "title": "007：大战皇家赌场",
+    "url": "https://movie.douban.com/subject/1418190/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p790087797.jpg",
+    "id": "1418190",
+    "cover_y": 1487,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 1000,
+    "title": "霹雳幻想 生死一剑",
+    "url": "https://movie.douban.com/subject/26887055/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2518143759.jpg",
+    "id": "26887055",
+    "cover_y": 1414,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 688,
+    "title": "鲁邦三世：次元大介的墓碑",
+    "url": "https://movie.douban.com/subject/25850319/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178415896.jpg",
+    "id": "25850319",
+    "cover_y": 1106,
+    "is_new": false
+  },
+  {
+    "rate": "7.2",
+    "cover_x": 1083,
+    "title": "博物馆奇妙夜",
+    "url": "https://movie.douban.com/subject/1835843/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2155462073.jpg",
+    "id": "1835843",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.9",
+    "cover_x": 877,
+    "title": "蝙蝠侠：突袭阿卡姆",
+    "url": "https://movie.douban.com/subject/25825320/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2193297721.jpg",
+    "id": "25825320",
+    "cover_y": 1272,
+    "is_new": false
+  },
+  {
+    "rate": "8.3",
+    "cover_x": 580,
+    "title": "战国英豪",
+    "url": "https://movie.douban.com/subject/1303110/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2102884387.jpg",
+    "id": "1303110",
+    "cover_y": 820,
+    "is_new": false
+  },
+  {
+    "rate": "7.4",
+    "cover_x": 1823,
+    "title": "伸冤人",
+    "url": "https://movie.douban.com/subject/3012013/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2201052935.jpg",
+    "id": "3012013",
+    "cover_y": 2700,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 1000,
+    "title": "和平饭店",
+    "url": "https://movie.douban.com/subject/1293867/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1863974996.jpg",
+    "id": "1293867",
+    "cover_y": 1415,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 400,
+    "title": "破坏之王",
+    "url": "https://movie.douban.com/subject/1299745/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1622122561.jpg",
+    "id": "1299745",
+    "cover_y": 559,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 400,
+    "title": "伤物语1：铁血篇",
+    "url": "https://movie.douban.com/subject/4925418/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2271912112.jpg",
+    "id": "4925418",
+    "cover_y": 564,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 586,
+    "title": "巴霍巴利王：开端",
+    "url": "https://movie.douban.com/subject/25753326/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363089554.jpg",
+    "id": "25753326",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.0",
+    "cover_x": 1064,
+    "title": "星际特工：千星之城",
+    "url": "https://movie.douban.com/subject/11502973/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2496088130.jpg",
+    "id": "11502973",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 980,
+    "title": "时空线索",
+    "url": "https://movie.douban.com/subject/1789283/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2199287843.jpg",
+    "id": "1789283",
+    "cover_y": 1420,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 678,
+    "title": "胜利之光",
+    "url": "https://movie.douban.com/subject/1308815/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p812944635.jpg",
+    "id": "1308815",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.8",
+    "cover_x": 1002,
+    "title": "刑房",
+    "url": "https://movie.douban.com/subject/1482090/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2167803400.jpg",
+    "id": "1482090",
+    "cover_y": 1524,
+    "is_new": false
+  }
+]

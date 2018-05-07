@@ -1,0 +1,222 @@
+[
+  {
+    "rate": "7.8",
+    "cover_x": 1000,
+    "title": "哆啦A梦：大雄的新魔界大冒险之7个魔法师",
+    "url": "https://movie.douban.com/subject/3755531/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1048182650.jpg",
+    "id": "3755531",
+    "cover_y": 1414,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 560,
+    "title": "我的妹妹小桃子",
+    "url": "https://movie.douban.com/subject/2082176/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2282600972.jpg",
+    "id": "2082176",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.3",
+    "cover_x": 1013,
+    "title": "猫头鹰王国：守卫者传奇",
+    "url": "https://movie.douban.com/subject/3041281/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p544639498.jpg",
+    "id": "3041281",
+    "cover_y": 1500,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄与白金迷宫",
+    "url": "https://movie.douban.com/subject/1458901/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520701737.jpg",
+    "id": "1458901",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.7",
+    "cover_x": 863,
+    "title": "星球大战：克隆战争",
+    "url": "https://movie.douban.com/subject/2982853/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1790901669.jpg",
+    "id": "2982853",
+    "cover_y": 1280,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 600,
+    "title": "青蛙的预言",
+    "url": "https://movie.douban.com/subject/1309010/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p870528004.jpg",
+    "id": "1309010",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 3043,
+    "title": "图书馆战争：革命之翼",
+    "url": "https://movie.douban.com/subject/10355645/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1744650844.jpg",
+    "id": "10355645",
+    "cover_y": 4301,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 544,
+    "title": "蜡笔小新：我的搬家物语 仙人掌大袭击",
+    "url": "https://movie.douban.com/subject/26280899/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2230985905.jpg",
+    "id": "26280899",
+    "cover_y": 768,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 560,
+    "title": "海贼王剧场版2：发条岛的冒险",
+    "url": "https://movie.douban.com/subject/1856674/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2300514062.jpg",
+    "id": "1856674",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 2336,
+    "title": "魔法奇缘",
+    "url": "https://movie.douban.com/subject/1971111/",
+    "playable": true,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1293401003.jpg",
+    "id": "1971111",
+    "cover_y": 3451,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的宇宙开拓史",
+    "url": "https://movie.douban.com/subject/1458890/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520697979.jpg",
+    "id": "1458890",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "7.1",
+    "cover_x": 3333,
+    "title": "魔发精灵",
+    "url": "https://movie.douban.com/subject/7065238/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497523370.jpg",
+    "id": "7065238",
+    "cover_y": 4910,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄的宇宙小战争",
+    "url": "https://movie.douban.com/subject/1457957/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520699109.jpg",
+    "id": "1457957",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.7",
+    "cover_x": 705,
+    "title": "机动战士高达 雷霆宙域 DECEMBER SKY",
+    "url": "https://movie.douban.com/subject/26827751/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363626116.jpg",
+    "id": "26827751",
+    "cover_y": 1000,
+    "is_new": false
+  },
+  {
+    "rate": "7.6",
+    "cover_x": 560,
+    "title": "海贼王剧场版1：黄金岛冒险",
+    "url": "https://movie.douban.com/subject/1856675/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2300512475.jpg",
+    "id": "1856675",
+    "cover_y": 800,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 1125,
+    "title": "哆啦A梦：大雄与动物行星",
+    "url": "https://movie.douban.com/subject/1458898/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520701139.jpg",
+    "id": "1458898",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.1",
+    "cover_x": 518,
+    "title": "变种外星人",
+    "url": "https://movie.douban.com/subject/1304204/",
+    "playable": false,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2183438047.jpg",
+    "id": "1304204",
+    "cover_y": 750,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 1131,
+    "title": "哆啦A梦：大雄与风之使者",
+    "url": "https://movie.douban.com/subject/1457926/",
+    "playable": true,
+    "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520703028.jpg",
+    "id": "1457926",
+    "cover_y": 1600,
+    "is_new": false
+  },
+  {
+    "rate": "8.0",
+    "cover_x": 780,
+    "title": "灌篮高手 剧场版1",
+    "url": "https://movie.douban.com/subject/4928747/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2171385213.jpg",
+    "id": "4928747",
+    "cover_y": 1120,
+    "is_new": false
+  },
+  {
+    "rate": "8.2",
+    "cover_x": 691,
+    "title": "幸存的生命（理论与实践）",
+    "url": "https://movie.douban.com/subject/3418199/",
+    "playable": false,
+    "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2492882415.jpg",
+    "id": "3418199",
+    "cover_y": 979,
+    "is_new": false
+  }
+]
