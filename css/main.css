@@ -1,0 +1,147 @@
+#mark{
+	position: fixed;
+	font-size: 16em;
+	background-color: #eee;
+	right: 0;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 1031;
+}
+.text {
+  fill: none;
+  stroke-width: 3;
+  stroke-linejoin: round;
+  stroke-dasharray: 70 330;
+  stroke-dashoffset: 0;
+  animation: stroke 6s infinite linear;
+}
+.text:nth-child(5n + 1) {
+  stroke: #3498DB;
+  animation-delay: -1.2s;
+}
+.text:nth-child(5n + 2) {
+  stroke: #2ECC71;
+  animation-delay: -2.4s;
+}
+.text:nth-child(5n + 3) {
+  stroke: #eee;
+  animation-delay: -3.6s;
+}
+.text:nth-child(5n + 4) {
+  stroke: #F39C12;
+  animation-delay: -4.8s;
+}
+.text:nth-child(5n + 5) {
+  stroke: #FFFEBB;
+  animation-delay: -6s;
+}
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: -400;
+  }
+}
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+body{
+	font-family: Consolas, 'simsun', sans-serif;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	font-size: 14px;
+}
+#typeList,#movieList{
+	text-align: center;
+}
+#typeList div,#movieList div{
+	display: inline-block;
+	border: 1px solid #2ECC71;
+	transition: background-color .4s;
+	cursor: pointer;
+	padding: 5px 30px;
+	margin: 5px;
+	border-radius: 16px;
+}
+#typeList div:nth-child(5n+1):hover,#movieList div:nth-child(5n+5):hover{
+	background-color: rgba(46, 204, 113, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(46, 204, 113, 0.3);
+}
+#typeList div:nth-child(5n+2):hover,#movieList div:nth-child(5n+4):hover{
+	background-color: rgba(52, 152, 219, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(52, 152, 219, 0.3);
+}
+#typeList div:nth-child(5n+3):hover,#movieList div:nth-child(5n+3):hover{
+	background-color: rgba(0, 0, 0, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+#typeList div:nth-child(5n+4):hover,#movieList div:nth-child(5n+2):hover{
+	background-color: rgba(243, 156, 18, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(243, 156, 18, 0.3);
+}
+#typeList div:nth-child(5n+5):hover,#movieList div:nth-child(5n+1):hover{
+	background-color: rgba(142, 68, 173, 0.3);
+	color: #fff;
+	border-color: rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 10px rgba(142, 68, 173, 0.3);
+}
+#movieListP,#showMovieP,#typeListP{
+	overflow: hidden;
+	padding: 30px 0px;
+}
+#showMovie,#movieList,#typeList{
+	max-height: 100%;
+	margin-right: -20px;
+	padding-right: 20px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	word-wrap: break-word;
+}
+#MoviesGoTypes, #MovieGoMovies, #MovieGoTypes{
+	cursor: pointer;
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	right: 10px;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+	animation: anim linear 2s infinite;
+}
+
+@keyframes anim{
+	0%{
+		transform: rotate(0deg);
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
+#MoviesGoTypes,#MovieGoTypes{
+	background-image: url('./类型h.png');
+}
+#MovieGoMovies{
+	background-image: url('./电影h.png');
+	margin-top: -64px;
+	top: 50%;
+}
+#MoviesGoTypes:hover,#MovieGoTypes:hover{
+	background-image: url('./类型.png');
+}
+#MovieGoMovies:hover{
+	background-image: url('./电影.png');
+}
